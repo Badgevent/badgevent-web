@@ -1,7 +1,7 @@
-import type { Component } from 'solid-js';
+import type { Component } from "solid-js";
 
-import logo from './logo.svg';
-import styles from './App.module.css';
+import logo from "./logo.svg";
+import styles from "./App.module.css";
 
 const App: Component = () => {
   return (
@@ -17,7 +17,7 @@ const App: Component = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Solid
+          <span class="text-3xl font-bold underline">Learn Solid</span>
         </a>
       </header>
     </div>
