@@ -4,5 +4,11 @@
   },
   "editor.quickSuggestions": {
     "strings": "on"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact",
+    "javascriptreact": "html",
+    "typescriptreact": "html"
   }
 }
