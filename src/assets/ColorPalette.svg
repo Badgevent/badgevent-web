@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect x="100" y="400" width="100" height="100" style="fill: rgb(187, 68, 170);"/>
+  <rect x="100" width="100" height="100" style="fill: rgb(170, 102, 0);" y="100"/>
+  <rect width="100" height="100" style="fill: rgb(221, 51, 17);" x="100"/>
+  <rect x="100" y="200" width="100" height="100" style="fill: rgb(17, 136, 34);"/>
+  <rect x="100" y="300" width="100" height="100" style="fill: rgb(34, 119, 204);"/>
+  <rect x="200" y="200" width="100" height="100" style="fill: rgb(119, 119, 85);"/>
+  <rect x="200" y="400" width="100" height="100" style="fill: rgb(153, 102, 136);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 19.3px;" x="212.448" y="456.556">#996688</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 19.3px;" x="112.293" y="456.556">#bb44aa</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 19.3px;" x="113.165" y="256.556">#118822</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 19.3px;" x="212.448" y="256.556">#777755</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 19.3px;" x="113.165" y="56.556">#dd3311</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 19.3px;" x="112.448" y="156.556">#aa6600</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 19.3px;" x="113.525" y="356.556">#2277cc</text>
+  <rect width="100" height="100" style="fill: rgb(187, 85, 85);" x="200"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 19.3px;" x="212.448" y="56.556">#bb5555</text>
+  <rect x="200" y="300" width="100" height="100" style="fill: rgb(102, 119, 136);"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 19.3px;" x="212.448" y="356.556">#667788</text>
+  <rect x="200" width="100" height="100" style="fill: rgb(170, 102, 51);" y="100"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 19.3px;" x="212.448" y="156.556">#aa6633</text>
+</svg>
