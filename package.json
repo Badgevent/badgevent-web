@@ -1,7 +1,7 @@
 {
-  "name": "vite-template-solid",
+  "name": "badgevent-web",
   "version": "0.0.0",
-  "description": "",
+  "description": "Badgevent Staff Portal",
   "scripts": {
     "start": "vite",
     "dev": "vite",
