@@ -1,37 +1,33 @@
-import {
-  A,
-  Route,
-  Routes,
-  useLocation,
-  useMatch,
-  useNavigate,
-} from "@solidjs/router";
-import { Component, createSignal, createEffect } from "solid-js";
-import { Administration } from "./pages/Administration";
-import { EventDashboard } from "./pages/EventDashboard";
-import { EventWrapper } from "./pages/EventWrapper";
-import { EventList } from "./pages/EventList";
+import { A, Route, Routes, useLocation } from "@solidjs/router";
+import { Component, createEffect } from "solid-js";
+import { useAppContext } from "./AppContext";
 import Logo from "./assets/BadgeventLogo.svg";
-import { Colors } from "./pages/Colors";
+import Button from "./components/Button";
+import Symbol from "./components/Symbol";
+import { Administration } from "./pages/Administration";
+import Colors from "./pages/Colors";
+import { EventDashboard } from "./pages/EventDashboard";
+import { EventList } from "./pages/EventList";
+import { EventWrapper } from "./pages/EventWrapper";
+import ButtonGroup from "./components/ButtonGroup";
 
 const App: Component = () => {
-  const navigate = useNavigate();
   const location = useLocation();
-  const [view, setView] = createSignal<string>("Home");
+  const appContext = useAppContext();
 
   createEffect(() => {
     if (location.pathname.startsWith("/e")) {
-      setView("Events");
+      appContext.setView("Events");
     } else if (location.pathname.startsWith("/admin")) {
-      setView("Administration");
+      appContext.setView("Administration");
     } else {
-      setView("Home");
+      appContext.setView("Home");
     }
   });
 
   return (
     <div class="">
-      <header class="nav relative container mx-auto px-2 py-6">
+      <header class="nav relative container mx-auto p-3">
         <div class="flex items-center">
           <div class="grow pt-2">
             <A href="/" class="mr-2 text-sm inline-block">
@@ -43,26 +39,14 @@ const App: Component = () => {
             </A>
           </div>
 
-          {/* <div class="grow mx-2 text-xl font-bold">Badgevent</div> */}
-
-          <div class="inline-flex rounded-md shadow-sm" role="group">
-            <button
-              type="button"
-              onclick={() => navigate("/e")}
-              data-ui={view() === "Events" ? "selected" : ""}
-              class="px-4 py-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-l-lg hover:bg-gray-100 hover:text-blue-700 dark:bg-gray-700 dark:border-gray-600 dark:text-white dark:hover:text-white dark:hover:bg-gray-600 data-selected:bg-blue-200 dark:data-selected:bg-blue-700"
-            >
-              Events
-            </button>
-            <button
-              type="button"
-              onclick={() => navigate("/admin")}
-              data-ui={view() === "Administration" ? "selected" : ""}
-              class="px-4 py-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-r-md hover:bg-gray-100 hover:text-blue-700 dark:bg-gray-700 dark:border-gray-600 dark:text-white dark:hover:text-white dark:hover:bg-gray-600 data-selected:bg-blue-200 dark:data-selected:bg-blue-700"
-            >
-              Admin
-            </button>
-          </div>
+          <ButtonGroup>
+            <Button navigateTo="/e" location="Events">
+              <Symbol class="text-3xl">&#xE53F;</Symbol>
+            </Button>
+            <Button navigateTo="/admin" location="Administration">
+              <Symbol class="text-3xl">&#xE8B8;</Symbol>
+            </Button>
+          </ButtonGroup>
 
           <div class="relative ml-2 inline-flex items-center justify-center w-10 h-10 overflow-hidden bg-gray-100 rounded-full dark:bg-gray-600">
             <span class="font-mono text-gray-600 dark:text-gray-300">RJ</span>

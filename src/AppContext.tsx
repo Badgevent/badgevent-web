@@ -1,35 +1,41 @@
 import {
-  createSignal,
-  createContext,
-  useContext,
+  Accessor,
   Component,
   JSXElement,
+  Setter,
+  createContext,
+  createSignal,
+  useContext,
 } from "solid-js";
 
-const AppContext = createContext();
+type AppContext = {
+  view: Accessor<string>;
+  setView: Setter<string>;
+  count: Accessor<number>;
+  setCount: Setter<number>;
+};
 
-export const CounterProvider: Component<{
-  count: number;
+const AppContext = createContext<AppContext>();
+
+export const AppContextProvider: Component<{
+  view?: string;
+  count?: number;
   children: JSXElement;
 }> = (props) => {
-  const [count, setCount] = createSignal(props.count || 0),
-    counter = [
-      count,
-      {
-        increment() {
-          setCount((c) => c + 1);
-        },
-        decrement() {
-          setCount((c) => c - 1);
-        },
-      },
-    ];
+  const [view, setView] = createSignal<string>(props.view || "Home");
+  const [count, setCount] = createSignal<number>(props.count || 0);
+  const context: AppContext = {
+    view: view,
+    setView: setView,
+    count: count,
+    setCount: setCount,
+  };
 
   return (
-    <AppContext.Provider value={counter}>{props.children}</AppContext.Provider>
+    <AppContext.Provider value={context}>{props.children}</AppContext.Provider>
   );
 };
 
-export function useCounter() {
-  return useContext(AppContext);
+export function useAppContext() {
+  return useContext(AppContext) as AppContext;
 }

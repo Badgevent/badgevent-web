@@ -1,6 +1,7 @@
 /* @refresh reload */
 import { render } from "solid-js/web";
 import { Router, Routes, Route } from "@solidjs/router";
+import { AppContextProvider } from "./AppContext";
 
 import "./index.css";
 import App from "./App";
@@ -16,7 +17,9 @@ if (import.meta.env.DEV && !(root instanceof HTMLElement)) {
 render(
   () => (
     <Router>
-      <App />
+      <AppContextProvider>
+        <App />
+      </AppContextProvider>
     </Router>
   ),
   root!

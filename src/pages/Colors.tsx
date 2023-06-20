@@ -182,7 +182,7 @@ export const Color: Component<{
 
 export const Colors: Component<{}> = (props) => {
   return (
-    <div class="container m-auto">
+    <div class="container mx-auto p-3 py-0">
       <h1>Badgevent Theme Colors</h1>
       <div class="flex items-center border border-black">
         <div class="w-6/12 bg-gray-900 text-gray-200 p-10">
@@ -239,3 +239,5 @@ export const Colors: Component<{}> = (props) => {
     </div>
   );
 };
+
+export default Colors;

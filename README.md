@@ -9,7 +9,7 @@ Web client for Badgevent. Likely only for the admin side. The goal of Badgevent 
 - **VIPs**: Creation of VIP types (e.g. Sponsors, Guests, Panelists, etc...). Creation and editing of VIPs including photos, biographical text and timelines.
 - **Vendors**: Creation of vendor types (e.g. Exhibitors, Artists, Crafters, Dealers, etc...). Assignment of badges. Inventory of vendor spaces (e.g. Exhibit Booths).
 
-To a great extent this is a rewrite and reimaging of the systems built for AnimeFest over 25 years.
+To a great extent this is a rewrite and reimaging of the systems built for Underwater Basket Weaving Expo over 25 years.
 
 ## Tech Stack
 
@@ -62,4 +62,8 @@ Your app is ready to be deployed!
 
 ## Deployment
 
-You can deploy the `dist` folder to any static host provider (netlify, surge, now, etc.)
+You can deploy the `dist` folder to any static host provider
+
+## Notes
+
+For the Linux based digital signage, consider setting up each as a BLE beacon for indoor location mapping. https://github.com/dburr/linux-ibeacon

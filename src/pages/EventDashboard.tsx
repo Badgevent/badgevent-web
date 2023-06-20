@@ -1,10 +1,21 @@
-import { Component, JSX } from "solid-js";
+import { useParams } from "@solidjs/router";
+import { For, JSXElement, ParentComponent } from "solid-js";
+import { eventbriteAttendees } from "../mockdata/MockEventbrite";
 
-interface MyParentComponent<P = { children: JSX.Element }>
-  extends Component<P> {}
+export const EventDashboard: ParentComponent<{
+  class?: string;
+  children: JSXElement;
+}> = (props) => {
+  return (
+    <div class="">
+      <h1>Dashboard</h1>
+      {props.children}
 
-export const EventDashboard: MyParentComponent = (props: {
-  children: JSX.Element;
-}) => {
-  return <div class="">{props.children}</div>;
+      <For each={eventbriteAttendees}>
+        {(eventbriteAttendee) => {
+          return <div>{eventbriteAttendee["profile"]["name"]}</div>;
+        }}
+      </For>
+    </div>
+  );
 };
