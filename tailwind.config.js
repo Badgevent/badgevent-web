@@ -12,6 +12,10 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: ["Open Sans", "sans-serif"],
+        symbol: [
+          "Material Symbols Outlined",
+          { fontVariationSettings: '"FILL" 1,"wght" 300,"GRAD" 0,"opsz" 48' },
+        ],
       },
       colors: {
         "saturated-red": "#dd3311",
