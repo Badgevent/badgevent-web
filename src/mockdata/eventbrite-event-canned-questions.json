@@ -1,0 +1,398 @@
+{
+    "questions": [
+        {
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/canned_questions/first_name/",
+            "id": "first_name",
+            "question": {
+                "text": "First Name",
+                "html": "First Name"
+            },
+            "type": "text",
+            "required": true,
+            "choices": [],
+            "ticket_classes": [],
+            "include": true,
+            "group_id": "contact_information",
+            "respondent": "ticket_buyer",
+            "default_value": "",
+            "editable": false
+        },
+        {
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/canned_questions/first_name/",
+            "id": "first_name",
+            "question": {
+                "text": "First Name",
+                "html": "First Name"
+            },
+            "type": "text",
+            "required": true,
+            "choices": [],
+            "ticket_classes": [
+                {
+                    "id": "999996719",
+                    "name": "Weekend Membership - Tier 1"
+                },
+                {
+                    "id": "999990049",
+                    "name": "Weekend Membership - Tier 2"
+                },
+                {
+                    "id": "999993259",
+                    "name": "Weekend Membership - Tier 3"
+                },
+                {
+                    "id": "999993659",
+                    "name": "Weekend Membership - Tier 4"
+                },
+                {
+                    "id": "999994039",
+                    "name": "Weekend Membership - Tier 5"
+                },
+                {
+                    "id": "999994619",
+                    "name": "Final Weekend Membership - Tier6"
+                },
+                {
+                    "id": "999996499",
+                    "name": "Friday ONLY"
+                },
+                {
+                    "id": "999998089",
+                    "name": "Saturday ONLY"
+                },
+                {
+                    "id": "999998589",
+                    "name": "Sunday ONLY"
+                },
+                {
+                    "id": "999998969",
+                    "name": "Monday ONLY"
+                },
+                {
+                    "id": "999990929",
+                    "name": "Youth 8-12"
+                },
+                {
+                    "id": "999993249",
+                    "name": "Child 0-7"
+                },
+                {
+                    "id": "9999918259",
+                    "name": "Comp Membership-Internal Use Only"
+                },
+                {
+                    "id": "9999942039",
+                    "name": "Small T-Shirt"
+                },
+                {
+                    "id": "9999942049",
+                    "name": "Medium T-Shirt"
+                },
+                {
+                    "id": "9999939039",
+                    "name": "Large T-Shirt"
+                },
+                {
+                    "id": "9999939049",
+                    "name": "Extra Large T-Shirt"
+                },
+                {
+                    "id": "9999945959",
+                    "name": "2XL T-Shirt"
+                },
+                {
+                    "id": "9999949909",
+                    "name": "3XL T-Shirt"
+                },
+                {
+                    "id": "9999965659",
+                    "name": "4XL T-Shirt"
+                },
+                {
+                    "id": "9999965669",
+                    "name": "5Xl T-Shirt"
+                }
+            ],
+            "include": true,
+            "group_id": "contact_information",
+            "respondent": "attendee",
+            "default_value": "",
+            "editable": true
+        },
+        {
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/canned_questions/last_name/",
+            "id": "last_name",
+            "question": {
+                "text": "Last Name",
+                "html": "Last Name"
+            },
+            "type": "text",
+            "required": true,
+            "choices": [],
+            "ticket_classes": [],
+            "include": true,
+            "group_id": "contact_information",
+            "respondent": "ticket_buyer",
+            "default_value": "",
+            "editable": false
+        },
+        {
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/canned_questions/last_name/",
+            "id": "last_name",
+            "question": {
+                "text": "Last Name",
+                "html": "Last Name"
+            },
+            "type": "text",
+            "required": true,
+            "choices": [],
+            "ticket_classes": [
+                {
+                    "id": "999996719",
+                    "name": "Weekend Membership - Tier 1"
+                },
+                {
+                    "id": "999990049",
+                    "name": "Weekend Membership - Tier 2"
+                },
+                {
+                    "id": "999993259",
+                    "name": "Weekend Membership - Tier 3"
+                },
+                {
+                    "id": "999993659",
+                    "name": "Weekend Membership - Tier 4"
+                },
+                {
+                    "id": "999994039",
+                    "name": "Weekend Membership - Tier 5"
+                },
+                {
+                    "id": "999994619",
+                    "name": "Final Weekend Membership - Tier6"
+                },
+                {
+                    "id": "999996499",
+                    "name": "Friday ONLY"
+                },
+                {
+                    "id": "999998089",
+                    "name": "Saturday ONLY"
+                },
+                {
+                    "id": "999998589",
+                    "name": "Sunday ONLY"
+                },
+                {
+                    "id": "999998969",
+                    "name": "Monday ONLY"
+                },
+                {
+                    "id": "999990929",
+                    "name": "Youth 8-12"
+                },
+                {
+                    "id": "999993249",
+                    "name": "Child 0-7"
+                },
+                {
+                    "id": "9999918259",
+                    "name": "Comp Membership-Internal Use Only"
+                },
+                {
+                    "id": "9999942039",
+                    "name": "Small T-Shirt"
+                },
+                {
+                    "id": "9999942049",
+                    "name": "Medium T-Shirt"
+                },
+                {
+                    "id": "9999939039",
+                    "name": "Large T-Shirt"
+                },
+                {
+                    "id": "9999939049",
+                    "name": "Extra Large T-Shirt"
+                },
+                {
+                    "id": "9999945959",
+                    "name": "2XL T-Shirt"
+                },
+                {
+                    "id": "9999949909",
+                    "name": "3XL T-Shirt"
+                },
+                {
+                    "id": "9999965659",
+                    "name": "4XL T-Shirt"
+                },
+                {
+                    "id": "9999965669",
+                    "name": "5Xl T-Shirt"
+                }
+            ],
+            "include": true,
+            "group_id": "contact_information",
+            "respondent": "attendee",
+            "default_value": "",
+            "editable": true
+        },
+        {
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/canned_questions/email/",
+            "id": "email",
+            "question": {
+                "text": "Email",
+                "html": "Email"
+            },
+            "type": "email",
+            "required": true,
+            "choices": [],
+            "ticket_classes": [],
+            "include": true,
+            "group_id": "contact_information",
+            "respondent": "ticket_buyer",
+            "default_value": "admin@example.com",
+            "editable": false
+        },
+        {
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/canned_questions/email/",
+            "id": "email",
+            "question": {
+                "text": "Email",
+                "html": "Email"
+            },
+            "type": "email",
+            "required": true,
+            "choices": [],
+            "ticket_classes": [
+                {
+                    "id": "999996719",
+                    "name": "Weekend Membership - Tier 1"
+                },
+                {
+                    "id": "999990049",
+                    "name": "Weekend Membership - Tier 2"
+                },
+                {
+                    "id": "999993259",
+                    "name": "Weekend Membership - Tier 3"
+                },
+                {
+                    "id": "999993659",
+                    "name": "Weekend Membership - Tier 4"
+                },
+                {
+                    "id": "999994039",
+                    "name": "Weekend Membership - Tier 5"
+                },
+                {
+                    "id": "999994619",
+                    "name": "Final Weekend Membership - Tier6"
+                },
+                {
+                    "id": "999996499",
+                    "name": "Friday ONLY"
+                },
+                {
+                    "id": "999998089",
+                    "name": "Saturday ONLY"
+                },
+                {
+                    "id": "999998589",
+                    "name": "Sunday ONLY"
+                },
+                {
+                    "id": "999998969",
+                    "name": "Monday ONLY"
+                },
+                {
+                    "id": "999990929",
+                    "name": "Youth 8-12"
+                },
+                {
+                    "id": "999993249",
+                    "name": "Child 0-7"
+                },
+                {
+                    "id": "9999918259",
+                    "name": "Comp Membership-Internal Use Only"
+                },
+                {
+                    "id": "9999942039",
+                    "name": "Small T-Shirt"
+                },
+                {
+                    "id": "9999942049",
+                    "name": "Medium T-Shirt"
+                },
+                {
+                    "id": "9999939039",
+                    "name": "Large T-Shirt"
+                },
+                {
+                    "id": "9999939049",
+                    "name": "Extra Large T-Shirt"
+                },
+                {
+                    "id": "9999945959",
+                    "name": "2XL T-Shirt"
+                },
+                {
+                    "id": "9999949909",
+                    "name": "3XL T-Shirt"
+                },
+                {
+                    "id": "9999965659",
+                    "name": "4XL T-Shirt"
+                },
+                {
+                    "id": "9999965669",
+                    "name": "5Xl T-Shirt"
+                }
+            ],
+            "include": true,
+            "group_id": "contact_information",
+            "respondent": "attendee",
+            "default_value": "attendee@example.com",
+            "editable": true
+        },
+        {
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/canned_questions/cc/",
+            "id": "cc",
+            "question": {
+                "text": "None",
+                "html": "None"
+            },
+            "type": "text",
+            "required": true,
+            "choices": [],
+            "ticket_classes": [],
+            "include": true,
+            "group_id": "credit_card",
+            "group_display_header": "Payment Info",
+            "respondent": "ticket_buyer",
+            "editable": [
+                false
+            ]
+        },
+        {
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/canned_questions/bill/",
+            "id": "bill",
+            "question": {
+                "text": "Billing Address",
+                "html": "Billing Address"
+            },
+            "type": "address",
+            "required": true,
+            "choices": [],
+            "ticket_classes": [],
+            "include": true,
+            "group_id": "billing",
+            "respondent": "ticket_buyer",
+            "editable": [
+                false
+            ]
+        }
+    ]
+}

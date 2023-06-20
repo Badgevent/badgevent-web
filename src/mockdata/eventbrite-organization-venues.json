@@ -1,0 +1,29 @@
+{
+    "venues": [
+        {
+            "address": {
+                "address_1": "400 Olive Street",
+                "address_2": "",
+                "city": "Dallas",
+                "region": "TX",
+                "postal_code": "75201",
+                "country": "US",
+                "latitude": "32.7851279",
+                "longitude": "-96.7949555",
+                "localized_address_display": "400 Olive Street, Dallas, TX 75201",
+                "localized_area_display": "Dallas, TX",
+                "localized_multi_line_address_display": [
+                    "400 Olive Street",
+                    "Dallas, TX 75201"
+                ]
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/venues/139428639/",
+            "id": "999998639",
+            "age_restriction": null,
+            "capacity": null,
+            "name": "Sheraton Dallas Hotel",
+            "latitude": "32.7851279",
+            "longitude": "-96.7949555"
+        }
+    ]
+}

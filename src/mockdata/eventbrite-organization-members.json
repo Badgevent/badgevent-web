@@ -1,0 +1,64 @@
+{
+    "members": [
+        {
+            "_type": "organization_member",
+            "user_id": "9999916947593",
+            "role_summary": "admin",
+            "immutable": false
+        },
+        {
+            "_type": "organization_member",
+            "user_id": "9999937130943",
+            "role_summary": "owner",
+            "immutable": true
+        },
+        {
+            "_type": "organization_member",
+            "user_id": "9999983040073",
+            "role_summary": "admin",
+            "immutable": false
+        },
+        {
+            "_type": "organization_member",
+            "user_id": "9999910753173",
+            "role_summary": "admin",
+            "immutable": false
+        },
+        {
+            "_type": "organization_member",
+            "user_id": "9999995729003",
+            "role_summary": "Multiple Roles",
+            "immutable": false
+        },
+        {
+            "_type": "organization_member",
+            "user_id": "9999920537663",
+            "role_summary": "Multiple Roles",
+            "immutable": false
+        },
+        {
+            "_type": "organization_member",
+            "user_id": "9999999495633",
+            "role_summary": "admin",
+            "immutable": false
+        },
+        {
+            "_type": "organization_member",
+            "user_id": "9999915409433",
+            "role_summary": "admin",
+            "immutable": false
+        },
+        {
+            "_type": "organization_member",
+            "user_id": "9999975232243",
+            "role_summary": "admin",
+            "immutable": false
+        },
+        {
+            "_type": "organization_member",
+            "user_id": "99999472301",
+            "role_summary": "admin",
+            "immutable": false
+        }
+    ]
+}

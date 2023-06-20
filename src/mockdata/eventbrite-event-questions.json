@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/questions/999991879/",
+            "id": "999991879",
+            "question": {
+                "text": "Conditions for Child and Youth membership",
+                "html": "Conditions for Child and Youth membership"
+            },
+            "type": "waiver",
+            "required": true,
+            "choices": [],
+            "waiver": "Purchase of a Child or Youth membership requires a parent or guardian to be a member.",
+            "ticket_classes": [
+                {
+                    "id": "999990929",
+                    "name": "Youth 8-12"
+                },
+                {
+                    "id": "999993249",
+                    "name": "Child 0-7"
+                }
+            ],
+            "respondent": "attendee",
+            "display_answer_on_order": false,
+            "sorting": 1
+        },
+        {
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/questions/999994149/",
+            "id": "999994149",
+            "question": {
+                "text": "Badge Name",
+                "html": "Badge Name"
+            },
+            "type": "text",
+            "required": true,
+            "choices": [],
+            "ticket_classes": [
+                {
+                    "id": "999996719",
+                    "name": "Weekend Membership - Tier 1"
+                },
+                {
+                    "id": "999990049",
+                    "name": "Weekend Membership - Tier 2"
+                },
+                {
+                    "id": "999993259",
+                    "name": "Weekend Membership - Tier 3"
+                },
+                {
+                    "id": "999993659",
+                    "name": "Weekend Membership - Tier 4"
+                },
+                {
+                    "id": "999994039",
+                    "name": "Weekend Membership - Tier 5"
+                },
+                {
+                    "id": "999994619",
+                    "name": "Final Weekend Membership - Tier6"
+                },
+                {
+                    "id": "999996499",
+                    "name": "Friday ONLY"
+                },
+                {
+                    "id": "999998089",
+                    "name": "Saturday ONLY"
+                },
+                {
+                    "id": "999998589",
+                    "name": "Sunday ONLY"
+                },
+                {
+                    "id": "999998969",
+                    "name": "Monday ONLY"
+                }
+            ],
+            "respondent": "attendee",
+            "display_answer_on_order": true,
+            "sorting": 2
+        },
+        {
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/questions/999998779/",
+            "id": "999998779",
+            "question": {
+                "text": "Child Badge Name",
+                "html": "Child Badge Name"
+            },
+            "type": "text",
+            "required": true,
+            "choices": [],
+            "ticket_classes": [
+                {
+                    "id": "999990929",
+                    "name": "Youth 8-12"
+                },
+                {
+                    "id": "999993249",
+                    "name": "Child 0-7"
+                }
+            ],
+            "respondent": "attendee",
+            "display_answer_on_order": true,
+            "sorting": 7
+        }
+    ]
+}

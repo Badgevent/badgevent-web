@@ -1,0 +1,4499 @@
+{
+    "attendees": [
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000001/",
+            "id": "0000000001",
+            "changed": "2023-03-04T15:01:26Z",
+            "created": "2023-03-04T15:01:23Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Loretta",
+                "last_name": "Shulman",
+                "email": "lshulman@example.com",
+                "name": "Loretta Shulman",
+                "addresses": []
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888873619001",
+                    "created": "2023-03-04T15:01:27Z",
+                    "changed": "2023-03-04T15:01:27Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Loretta",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888873619",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000002/",
+            "id": "0000000002",
+            "changed": "2023-03-04T15:01:42Z",
+            "created": "2023-03-04T15:01:39Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Hannis",
+                "last_name": "Kasevich",
+                "email": "hkasevich@example.com",
+                "name": "Hannis Kasevich",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "70001"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888876299002",
+                    "created": "2023-03-04T15:01:43Z",
+                    "changed": "2023-03-04T15:01:43Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Hannis",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888876299",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000003/",
+            "id": "0000000003",
+            "changed": "2023-03-04T15:02:34Z",
+            "created": "2023-03-04T15:02:31Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Deeann",
+                "last_name": "Conger",
+                "email": "dconger@example.com",
+                "name": "Deeann Conger",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "75092"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888874779003",
+                    "created": "2023-03-04T15:02:35Z",
+                    "changed": "2023-03-04T15:02:35Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Deeann",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888874779",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000004/",
+            "id": "0000000004",
+            "changed": "2023-03-04T15:03:05Z",
+            "created": "2023-03-04T15:03:01Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Revkah",
+                "last_name": "Cecily",
+                "email": "rcecily@example.com",
+                "name": "Revkah Cecily",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "76104"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888885559004",
+                    "created": "2023-03-04T15:03:05Z",
+                    "changed": "2023-03-04T15:03:05Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Revkah",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888885559",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000005/",
+            "id": "0000000005",
+            "changed": "2023-03-04T15:03:06Z",
+            "created": "2023-03-04T15:03:03Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Jazmin",
+                "last_name": "Mani",
+                "email": "jmani@example.com",
+                "name": "Jazmin Mani",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "75081"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888884209005",
+                    "created": "2023-03-04T15:03:06Z",
+                    "changed": "2023-03-04T15:03:06Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Jazmin",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888884209",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000006/",
+            "id": "0000000006",
+            "changed": "2023-03-04T15:03:20Z",
+            "created": "2023-03-04T15:03:16Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Harmonia",
+                "last_name": "Goff",
+                "email": "hgoff@example.com",
+                "name": "Harmonia Goff",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "74075"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888880559006",
+                    "created": "2023-03-04T15:03:20Z",
+                    "changed": "2023-03-04T15:03:20Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Harmonia",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888880559",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000007/",
+            "id": "0000000007",
+            "changed": "2023-03-04T15:03:20Z",
+            "created": "2023-03-04T15:03:16Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Petra",
+                "last_name": "McKee",
+                "email": "pmckee@example.com",
+                "name": "Petra McKee",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "74075"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888880559007",
+                    "created": "2023-03-04T15:03:20Z",
+                    "changed": "2023-03-04T15:03:20Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Petra",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888880559",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000008/",
+            "id": "0000000008",
+            "changed": "2023-03-04T15:03:31Z",
+            "created": "2023-03-04T15:03:28Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Bernette",
+                "last_name": "Corbett",
+                "email": "bcorbett@example.com",
+                "name": "Bernette Corbett",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "76104"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888885029008",
+                    "created": "2023-03-04T15:03:31Z",
+                    "changed": "2023-03-04T15:03:31Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Bernette",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888885029",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000009/",
+            "id": "0000000009",
+            "changed": "2023-03-04T15:04:05Z",
+            "created": "2023-03-04T15:04:01Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Dorelia",
+                "last_name": "McMahon",
+                "email": "dmcmahon@example.com",
+                "name": "Dorelia McMahon",
+                "addresses": []
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888877229009",
+                    "created": "2023-03-04T15:04:05Z",
+                    "changed": "2023-03-04T15:04:05Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Dorelia",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888877229",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000010/",
+            "id": "0000000010",
+            "changed": "2023-03-04T15:04:05Z",
+            "created": "2023-03-04T15:04:01Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Letizia",
+                "last_name": "Malamut",
+                "email": "lmalamut@example.com",
+                "name": "Letizia Malamut",
+                "addresses": []
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888877229010",
+                    "created": "2023-03-04T15:04:05Z",
+                    "changed": "2023-03-04T15:04:05Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Letizia",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888877229",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000011/",
+            "id": "0000000011",
+            "changed": "2023-03-04T15:04:08Z",
+            "created": "2023-03-04T15:04:04Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Storm",
+                "last_name": "Cece",
+                "email": "scece@example.com",
+                "name": "Storm Cece",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "75166"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888892589011",
+                    "created": "2023-03-04T15:04:09Z",
+                    "changed": "2023-03-04T15:04:09Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Storm",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888892589",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000012/",
+            "id": "0000000012",
+            "changed": "2023-03-04T15:04:10Z",
+            "created": "2023-03-04T15:04:07Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Rhodia",
+                "last_name": "Jesh",
+                "email": "rjesh@example.com",
+                "name": "Rhodia Jesh",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "75028"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888886679012",
+                    "created": "2023-03-04T15:04:11Z",
+                    "changed": "2023-03-04T15:04:11Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Rhodia",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888886679",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000013/",
+            "id": "0000000013",
+            "changed": "2023-03-04T15:04:10Z",
+            "created": "2023-03-04T15:04:07Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Jammie",
+                "last_name": "Lindsy",
+                "email": "jlindsy@example.com",
+                "name": "Jammie Lindsy",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "75028"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888886679013",
+                    "created": "2023-03-04T15:04:11Z",
+                    "changed": "2023-03-04T15:04:11Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Jammie",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888886679",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000014/",
+            "id": "0000000014",
+            "changed": "2023-03-04T15:04:15Z",
+            "created": "2023-03-04T15:04:11Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Adelice",
+                "last_name": "Attlee",
+                "email": "aattlee@example.com",
+                "name": "Adelice Attlee",
+                "addresses": []
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888898299014",
+                    "created": "2023-03-04T15:04:16Z",
+                    "changed": "2023-03-04T15:04:16Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Adelice",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "ebesesdeeplink",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888898299",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000015/",
+            "id": "0000000015",
+            "changed": "2023-03-04T15:04:18Z",
+            "created": "2023-03-04T15:04:15Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Ophelie",
+                "last_name": "Vivyanne",
+                "email": "ovivyanne@example.com",
+                "name": "Ophelie Vivyanne",
+                "addresses": []
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888894669015",
+                    "created": "2023-03-04T15:04:18Z",
+                    "changed": "2023-03-04T15:04:18Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Ophelie",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888894669",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000016/",
+            "id": "0000000016",
+            "changed": "2023-03-04T15:04:32Z",
+            "created": "2023-03-04T15:04:29Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Stacee",
+                "last_name": "Trinl",
+                "email": "strinl@example.com",
+                "name": "Stacee Trinl",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "78393"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888886049016",
+                    "created": "2023-03-04T15:04:33Z",
+                    "changed": "2023-03-04T15:04:33Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Stacee",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888886049",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000017/",
+            "id": "0000000017",
+            "changed": "2023-03-04T15:04:32Z",
+            "created": "2023-03-04T15:04:29Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Blinnie",
+                "last_name": "Balcer",
+                "email": "bbalcer@example.com",
+                "name": "Blinnie Balcer",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "78393"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888886049017",
+                    "created": "2023-03-04T15:04:33Z",
+                    "changed": "2023-03-04T15:04:33Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Blinnie",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888886049",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000018/",
+            "id": "0000000018",
+            "changed": "2023-03-04T15:04:43Z",
+            "created": "2023-03-04T15:04:38Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Truda",
+                "last_name": "Vlada",
+                "email": "tvlada@example.com",
+                "name": "Truda Vlada",
+                "addresses": []
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888892019018",
+                    "created": "2023-03-04T15:04:44Z",
+                    "changed": "2023-03-04T15:04:44Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Truda",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888892019",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000019/",
+            "id": "0000000019",
+            "changed": "2023-03-04T15:04:43Z",
+            "created": "2023-03-04T15:04:38Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Tabatha",
+                "last_name": "Ress",
+                "email": "tress@example.com",
+                "name": "Tabatha Ress",
+                "addresses": []
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888892019019",
+                    "created": "2023-03-04T15:04:44Z",
+                    "changed": "2023-03-04T15:04:44Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Tabatha",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888892019",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000020/",
+            "id": "0000000020",
+            "changed": "2023-03-04T15:05:41Z",
+            "created": "2023-03-04T15:05:36Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Margaretha",
+                "last_name": "Teri",
+                "email": "mteri@example.com",
+                "name": "Margaretha Teri",
+                "addresses": []
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888893729020",
+                    "created": "2023-03-04T15:05:41Z",
+                    "changed": "2023-03-04T15:05:41Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Margaretha",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888893729",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000021/",
+            "id": "0000000021",
+            "changed": "2023-03-04T15:05:41Z",
+            "created": "2023-03-04T15:05:36Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Raphaela",
+                "last_name": "Cuttler",
+                "email": "rcuttler@example.com",
+                "name": "Raphaela Cuttler",
+                "addresses": []
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888893729021",
+                    "created": "2023-03-04T15:05:41Z",
+                    "changed": "2023-03-04T15:05:41Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Raphaela",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888893729",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000022/",
+            "id": "0000000022",
+            "changed": "2023-03-04T15:06:08Z",
+            "created": "2023-03-04T15:06:05Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Leone",
+                "last_name": "Zetes",
+                "email": "lzetes@example.com",
+                "name": "Leone Zetes",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "75023"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888805459022",
+                    "created": "2023-03-04T15:06:08Z",
+                    "changed": "2023-03-04T15:06:08Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Leone",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888805459",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000023/",
+            "id": "0000000023",
+            "changed": "2023-03-04T15:06:09Z",
+            "created": "2023-03-04T15:06:04Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Dru",
+                "last_name": "Hughmanick",
+                "email": "dhughmanick@example.com",
+                "name": "Dru Hughmanick",
+                "addresses": []
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888890679023",
+                    "created": "2023-03-04T15:06:09Z",
+                    "changed": "2023-03-04T15:06:09Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Dru",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888890679",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000024/",
+            "id": "0000000024",
+            "changed": "2023-03-04T15:06:11Z",
+            "created": "2023-03-04T15:06:08Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Nessa",
+                "last_name": "Alia",
+                "email": "nalia@example.com",
+                "name": "Nessa Alia",
+                "addresses": []
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888896729024",
+                    "created": "2023-03-04T15:06:12Z",
+                    "changed": "2023-03-04T15:06:12Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Nessa",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888896729",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000025/",
+            "id": "0000000025",
+            "changed": "2023-03-04T15:06:18Z",
+            "created": "2023-03-04T15:06:16Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Vinita",
+                "last_name": "Ji",
+                "email": "vji@example.com",
+                "name": "Vinita Ji",
+                "addresses": []
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888894719025",
+                    "created": "2023-03-04T15:06:19Z",
+                    "changed": "2023-03-04T15:06:19Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Vinita",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888894719",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000026/",
+            "id": "0000000026",
+            "changed": "2023-03-04T15:06:18Z",
+            "created": "2023-03-04T15:06:16Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Allyn",
+                "last_name": "Amice",
+                "email": "aamice@example.com",
+                "name": "Allyn Amice",
+                "addresses": []
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888894719026",
+                    "created": "2023-03-04T15:06:19Z",
+                    "changed": "2023-03-04T15:06:19Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Allyn",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888894719",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000027/",
+            "id": "0000000027",
+            "changed": "2023-03-04T15:06:25Z",
+            "created": "2023-03-04T15:06:22Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Danica",
+                "last_name": "Ardith",
+                "email": "dardith@example.com",
+                "name": "Danica Ardith",
+                "addresses": []
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888804699027",
+                    "created": "2023-03-04T15:06:26Z",
+                    "changed": "2023-03-04T15:06:26Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Danica",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888804699",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000028/",
+            "id": "0000000028",
+            "changed": "2023-03-04T15:06:40Z",
+            "created": "2023-03-04T15:06:37Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Darci",
+                "last_name": "Philana",
+                "email": "dphilana@example.com",
+                "name": "Darci Philana",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "76104"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888806979028",
+                    "created": "2023-03-04T15:06:41Z",
+                    "changed": "2023-03-04T15:06:41Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Darci",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888806979",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000029/",
+            "id": "0000000029",
+            "changed": "2023-03-04T15:06:42Z",
+            "created": "2023-03-04T15:06:40Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Sonnnie",
+                "last_name": "Leblanc",
+                "email": "sleblanc@example.com",
+                "name": "Sonnnie Leblanc",
+                "addresses": []
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888807089029",
+                    "created": "2023-03-04T15:06:43Z",
+                    "changed": "2023-03-04T15:06:43Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Sonnnie",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888807089",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000030/",
+            "id": "0000000030",
+            "changed": "2023-03-04T15:06:42Z",
+            "created": "2023-03-04T15:06:40Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Vinnie",
+                "last_name": "Adhamh",
+                "email": "vadhamh@example.com",
+                "name": "Vinnie Adhamh",
+                "addresses": []
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888807089030",
+                    "created": "2023-03-04T15:06:43Z",
+                    "changed": "2023-03-04T15:06:43Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Vinnie",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888807089",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000031/",
+            "id": "0000000031",
+            "changed": "2023-03-04T15:07:30Z",
+            "created": "2023-03-04T15:07:27Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Meggie",
+                "last_name": "Figone",
+                "email": "mfigone@example.com",
+                "name": "Meggie Figone",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "76003"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888804839031",
+                    "created": "2023-03-04T15:07:31Z",
+                    "changed": "2023-03-04T15:07:31Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Meggie",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888804839",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000032/",
+            "id": "0000000032",
+            "changed": "2023-03-04T15:07:34Z",
+            "created": "2023-03-04T15:07:31Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Fifine",
+                "last_name": "Phenice",
+                "email": "fphenice@example.com",
+                "name": "Fifine Phenice",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "75038"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888898609032",
+                    "created": "2023-03-04T15:07:35Z",
+                    "changed": "2023-03-04T15:07:35Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Fifine",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888898609",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000033/",
+            "id": "0000000033",
+            "changed": "2023-03-04T15:07:34Z",
+            "created": "2023-03-04T15:07:31Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Edyth",
+                "last_name": "Sparks",
+                "email": "esparks@example.com",
+                "name": "Edyth Sparks",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "75038"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888898609033",
+                    "created": "2023-03-04T15:07:35Z",
+                    "changed": "2023-03-04T15:07:35Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Edyth",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888898609",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000034/",
+            "id": "0000000034",
+            "changed": "2023-03-04T15:08:05Z",
+            "created": "2023-03-04T15:08:02Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Keriann",
+                "last_name": "Kenleigh",
+                "email": "kkenleigh@example.com",
+                "name": "Keriann Kenleigh",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "76011"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888805509034",
+                    "created": "2023-03-04T15:08:06Z",
+                    "changed": "2023-03-04T15:08:06Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Keriann",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888805509",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000035/",
+            "id": "0000000035",
+            "changed": "2023-03-04T15:08:05Z",
+            "created": "2023-03-04T15:08:02Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Liuka",
+                "last_name": "Torhert",
+                "email": "ltorhert@example.com",
+                "name": "Liuka Torhert",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "76011"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888805509035",
+                    "created": "2023-03-04T15:08:06Z",
+                    "changed": "2023-03-04T15:08:06Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Liuka",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888805509",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000036/",
+            "id": "0000000036",
+            "changed": "2023-03-04T15:08:05Z",
+            "created": "2023-03-04T15:08:02Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Xylina",
+                "last_name": "Soble",
+                "email": "xsoble@example.com",
+                "name": "Xylina Soble",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "76011"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888805509036",
+                    "created": "2023-03-04T15:08:06Z",
+                    "changed": "2023-03-04T15:08:06Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Xylina",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888805509",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000037/",
+            "id": "0000000037",
+            "changed": "2023-03-04T15:08:05Z",
+            "created": "2023-03-04T15:08:02Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Valera",
+                "last_name": "Philbert",
+                "email": "vphilbert@example.com",
+                "name": "Valera Philbert",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "76011"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888805509037",
+                    "created": "2023-03-04T15:08:06Z",
+                    "changed": "2023-03-04T15:08:06Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Valera",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888805509",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000038/",
+            "id": "0000000038",
+            "changed": "2023-03-04T15:08:05Z",
+            "created": "2023-03-04T15:08:02Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Donelle",
+                "last_name": "Booth",
+                "email": "dbooth@example.com",
+                "name": "Donelle Booth",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "76011"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888805509038",
+                    "created": "2023-03-04T15:08:06Z",
+                    "changed": "2023-03-04T15:08:06Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Donelle",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888805509",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000039/",
+            "id": "0000000039",
+            "changed": "2023-03-04T15:08:12Z",
+            "created": "2023-03-04T15:08:10Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Rozamond",
+                "last_name": "Wendie",
+                "email": "rwendie@example.com",
+                "name": "Rozamond Wendie",
+                "addresses": []
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888821899039",
+                    "created": "2023-03-04T15:08:13Z",
+                    "changed": "2023-03-04T15:08:13Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Rozamond",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888821899",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000040/",
+            "id": "0000000040",
+            "changed": "2023-03-04T15:08:17Z",
+            "created": "2023-03-04T15:08:14Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Diane",
+                "last_name": "Aronoff",
+                "email": "daronoff@example.com",
+                "name": "Diane Aronoff",
+                "addresses": []
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888801739040",
+                    "created": "2023-03-04T15:08:17Z",
+                    "changed": "2023-03-04T15:08:17Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Diane",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888801739",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000041/",
+            "id": "0000000041",
+            "changed": "2023-03-04T15:08:43Z",
+            "created": "2023-03-04T15:08:38Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Jazmin",
+                "last_name": "Mayne",
+                "email": "jmayne@example.com",
+                "name": "Jazmin Mayne",
+                "addresses": []
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888816549041",
+                    "created": "2023-03-04T15:08:43Z",
+                    "changed": "2023-03-04T15:08:43Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Jazmin",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888816549",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000042/",
+            "id": "0000000042",
+            "changed": "2023-03-04T15:09:28Z",
+            "created": "2023-03-04T15:09:25Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Kassandra",
+                "last_name": "Kamaria",
+                "email": "kkamaria@example.com",
+                "name": "Kassandra Kamaria",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "76180"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888890119042",
+                    "created": "2023-03-04T15:09:28Z",
+                    "changed": "2023-03-04T15:09:28Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Kassandra",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888890119",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000043/",
+            "id": "0000000043",
+            "changed": "2023-03-04T15:09:28Z",
+            "created": "2023-03-04T15:09:25Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Ana",
+                "last_name": "Genesia",
+                "email": "agenesia@example.com",
+                "name": "Ana Genesia",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "76180"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888890119043",
+                    "created": "2023-03-04T15:09:28Z",
+                    "changed": "2023-03-04T15:09:28Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Ana",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888890119",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000044/",
+            "id": "0000000044",
+            "changed": "2023-03-04T15:09:44Z",
+            "created": "2023-03-04T15:09:40Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Dasi",
+                "last_name": "Danna",
+                "email": "ddanna@example.com",
+                "name": "Dasi Danna",
+                "addresses": []
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888828009044",
+                    "created": "2023-03-04T15:09:45Z",
+                    "changed": "2023-03-04T15:09:45Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Dasi",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888828009",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000045/",
+            "id": "0000000045",
+            "changed": "2023-03-04T15:10:36Z",
+            "created": "2023-03-04T15:10:31Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Gnni",
+                "last_name": "Eatton",
+                "email": "geatton@example.com",
+                "name": "Gnni Eatton",
+                "addresses": []
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888835909045",
+                    "created": "2023-03-04T15:10:37Z",
+                    "changed": "2023-03-04T15:10:37Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Gnni",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888835909",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000046/",
+            "id": "0000000046",
+            "changed": "2023-03-04T15:12:33Z",
+            "created": "2023-03-04T15:12:29Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Queenie",
+                "last_name": "Northway",
+                "email": "qnorthway@example.com",
+                "name": "Queenie Northway",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "75428"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888802039046",
+                    "created": "2023-03-04T15:12:33Z",
+                    "changed": "2023-03-04T15:12:33Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Queenie",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888802039",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000047/",
+            "id": "0000000047",
+            "changed": "2023-03-04T15:12:33Z",
+            "created": "2023-03-04T15:12:29Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Gilligan",
+                "last_name": "Glantz",
+                "email": "gglantz@example.com",
+                "name": "Gilligan Glantz",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "75428"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888802039047",
+                    "created": "2023-03-04T15:12:33Z",
+                    "changed": "2023-03-04T15:12:33Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Gilligan",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888802039",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000048/",
+            "id": "0000000048",
+            "changed": "2023-03-04T15:12:33Z",
+            "created": "2023-03-04T15:12:29Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Aili",
+                "last_name": "Yunick",
+                "email": "ayunick@example.com",
+                "name": "Aili Yunick",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "75428"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888802039048",
+                    "created": "2023-03-04T15:12:33Z",
+                    "changed": "2023-03-04T15:12:33Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Aili",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888802039",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000049/",
+            "id": "0000000049",
+            "changed": "2023-03-04T15:12:33Z",
+            "created": "2023-03-04T15:12:29Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Becca",
+                "last_name": "Simsar",
+                "email": "bsimsar@example.com",
+                "name": "Becca Simsar",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "75428"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888802039049",
+                    "created": "2023-03-04T15:12:33Z",
+                    "changed": "2023-03-04T15:12:33Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Becca",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888802039",
+            "ticket_class_id": "999996719"
+        },
+        {
+            "costs": {
+                "base_price": {
+                    "display": "$31.92",
+                    "currency": "USD",
+                    "value": 3192,
+                    "major_value": "31.92"
+                },
+                "eventbrite_fee": {
+                    "display": "$2.15",
+                    "currency": "USD",
+                    "value": 215,
+                    "major_value": "2.15"
+                },
+                "gross": {
+                    "display": "$35.00",
+                    "currency": "USD",
+                    "value": 3500,
+                    "major_value": "35.00"
+                },
+                "payment_fee": {
+                    "display": "$0.93",
+                    "currency": "USD",
+                    "value": 93,
+                    "major_value": "0.93"
+                },
+                "tax": {
+                    "display": "$0.00",
+                    "currency": "USD",
+                    "value": 0,
+                    "major_value": "0.00"
+                }
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/attendees/0000000050/",
+            "id": "0000000050",
+            "changed": "2023-03-04T15:12:33Z",
+            "created": "2023-03-04T15:12:29Z",
+            "quantity": 1,
+            "variant_id": null,
+            "profile": {
+                "first_name": "Glenda",
+                "last_name": "Rolo",
+                "email": "grolo@example.com",
+                "name": "Glenda Rolo",
+                "addresses": {
+                    "bill": {
+                        "country": "US",
+                        "postal_code": "75428"
+                    }
+                }
+            },
+            "barcodes": [
+                {
+                    "status": "unused",
+                    "barcode": "9999989751978888802039050",
+                    "created": "2023-03-04T15:12:33Z",
+                    "changed": "2023-03-04T15:12:33Z",
+                    "checkin_type": 0,
+                    "is_printed": false
+                }
+            ],
+            "answers": [
+                {
+                    "question": "Conditions for Child and Youth membership",
+                    "type": "text",
+                    "question_id": "999991879"
+                },
+                {
+                    "answer": "Glenda",
+                    "question": "Badge Name",
+                    "type": "text",
+                    "question_id": "999994149"
+                },
+                {
+                    "question": "Child Badge Name",
+                    "type": "text",
+                    "question_id": "999998779"
+                }
+            ],
+            "checked_in": false,
+            "cancelled": false,
+            "refunded": false,
+            "affiliate": "oddtdteb",
+            "guestlist_id": null,
+            "invited_by": null,
+            "status": "Attending",
+            "ticket_class_name": "Weekend Membership - Tier 1",
+            "delivery_method": "electronic",
+            "event_id": "999998975197",
+            "order_id": "8888802039",
+            "ticket_class_id": "999996719"
+        }
+    ]
+}

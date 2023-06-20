@@ -1,0 +1,166 @@
+{
+    "events": [
+        {
+            "name": {
+                "text": "Underwater Basket Weaving Expo 2023",
+                "html": "Underwater Basket Weaving Expo 2023"
+            },
+            "description": {
+                "text": "Underwater Basket Weaving Expo is a Non-Profit Corporation and 501(c)(3) Charity.",
+                "html": "Underwater Basket Weaving Expo is a Non-Profit Corporation and 501(c)(3) Charity."
+            },
+            "url": "https://www.eventbrite.com/e/underwater-baskets-2023-registration-999998975197",
+            "start": {
+                "timezone": "America/Chicago",
+                "local": "2023-07-28T12:00:00",
+                "utc": "2023-07-28T17:00:00Z"
+            },
+            "end": {
+                "timezone": "America/Chicago",
+                "local": "2023-07-31T15:00:00",
+                "utc": "2023-07-31T20:00:00Z"
+            },
+            "organization_id": "9999937151083",
+            "created": "2023-02-19T22:11:41Z",
+            "changed": "2023-06-03T20:01:23Z",
+            "published": "2023-03-04T15:00:20Z",
+            "capacity": 10000,
+            "capacity_is_custom": true,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "invite_only": false,
+            "online_event": false,
+            "show_remaining": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": false,
+            "version": null,
+            "summary": "Underwater Basket Weaving Expo is a Texas Non-Profit Corporation and 501(c)(3) Charity. We have an annual event celebrating Japanese Pop Culture, Anime & more",
+            "facebook_event_id": "259999999999992",
+            "logo_id": "449798749",
+            "organizer_id": "99999593213",
+            "venue_id": "999998639",
+            "category_id": "119",
+            "subcategory_id": "19001",
+            "format_id": "4",
+            "id": "999998975197",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 2160,
+                    "height": 1080
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F449798749%2F1405237130943%2F1%2Foriginal.20230219-225032?auto=format%2Ccompress&q=75&sharp=10&s=2a5a23282918506a2bdb66883eaeedf2",
+                    "width": 2160,
+                    "height": 1080
+                },
+                "id": "449798749",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F449798749%2F1405237130943%2F1%2Foriginal.20230219-225032?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=68c9110af5ce947f7ee6142cc26a1d2b",
+                "aspect_ratio": "2",
+                "edge_color": "#0a0b4b",
+                "edge_color_set": true
+            }
+        },
+        {
+            "name": {
+                "text": "Underwater Basket Weaving Expo 2024",
+                "html": "Underwater Basket Weaving Expo 2024"
+            },
+            "description": {
+                "text": "Underwater Basket Weaving Expo is a Non-Profit Corporation and 501(c)(3) Charity.",
+                "html": "Underwater Basket Weaving Expo is a Non-Profit Corporation and 501(c)(3) Charity."
+            },
+            "url": "https://www.eventbrite.com/e/underwater-baskets-2023-registration-999998975199",
+            "start": {
+                "timezone": "America/Chicago",
+                "local": "2024-07-26T12:00:00",
+                "utc": "2024-07-26T17:00:00Z"
+            },
+            "end": {
+                "timezone": "America/Chicago",
+                "local": "2024-07-29T15:00:00",
+                "utc": "2024-07-29T20:00:00Z"
+            },
+            "organization_id": "9999937151083",
+            "created": "2023-02-19T22:11:41Z",
+            "changed": "2023-06-03T20:01:23Z",
+            "published": "2023-03-04T15:00:20Z",
+            "capacity": 10000,
+            "capacity_is_custom": true,
+            "status": "live",
+            "currency": "USD",
+            "listed": true,
+            "shareable": true,
+            "invite_only": false,
+            "online_event": false,
+            "show_remaining": false,
+            "tx_time_limit": 1200,
+            "hide_start_date": false,
+            "hide_end_date": false,
+            "locale": "en_US",
+            "is_locked": false,
+            "privacy_setting": "unlocked",
+            "is_series": false,
+            "is_series_parent": false,
+            "inventory_type": "limited",
+            "is_reserved_seating": false,
+            "show_pick_a_seat": false,
+            "show_seatmap_thumbnail": false,
+            "show_colors_in_seatmap_thumbnail": false,
+            "source": "coyote",
+            "is_free": false,
+            "version": null,
+            "summary": "Underwater Basket Weaving Expo is a Texas Non-Profit Corporation and 501(c)(3) Charity. We have an annual event celebrating Japanese Pop Culture, Anime & more",
+            "facebook_event_id": "259999999999992",
+            "logo_id": "449798749",
+            "organizer_id": "99999593213",
+            "venue_id": "999998639",
+            "category_id": "119",
+            "subcategory_id": "19001",
+            "format_id": "4",
+            "id": "999998975199",
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975199/",
+            "is_externally_ticketed": false,
+            "logo": {
+                "crop_mask": {
+                    "top_left": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "width": 2160,
+                    "height": 1080
+                },
+                "original": {
+                    "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F449798749%2F1405237130943%2F1%2Foriginal.20230219-225032?auto=format%2Ccompress&q=75&sharp=10&s=2a5a23282918506a2bdb66883eaeedf2",
+                    "width": 2160,
+                    "height": 1080
+                },
+                "id": "449798749",
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F449798749%2F1405237130943%2F1%2Foriginal.20230219-225032?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=68c9110af5ce947f7ee6142cc26a1d2b",
+                "aspect_ratio": "2",
+                "edge_color": "#0a0b4b",
+                "edge_color_set": true
+            }
+        }
+    ]
+}

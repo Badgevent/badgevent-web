@@ -1,0 +1,15 @@
+{
+    "emails": [
+        {
+            "email": "someuser@example.com",
+            "verified": false,
+            "primary": true
+        }
+    ],
+    "id": "99999472301",
+    "name": "Robert Jenks",
+    "first_name": "Robert",
+    "last_name": "Jenks",
+    "is_public": false,
+    "image_id": null
+}

@@ -1,0 +1,248 @@
+{
+    "name": {
+        "text": "Underwater Basket Weaving Expo 2023",
+        "html": "Underwater Basket Weaving Expo 2023"
+    },
+    "description": {
+        "text": "Underwater Basket Weaving Expo is a Texas Non-Profit Corporation and 501(c)(3) Charity. We have an annual event celebrating Japanese Pop Culture, Anime & more",
+        "html": "Underwater Basket Weaving Expo is a Texas Non-Profit Corporation and 501(c)(3) Charity. We have an annual event celebrating Japanese Pop Culture, Anime &amp; more"
+    },
+    "url": "https://www.eventbrite.com/e/underwater-baskets-2023-registration-999998975197",
+    "start": {
+        "timezone": "America/Chicago",
+        "local": "2023-07-28T12:00:00",
+        "utc": "2023-07-28T17:00:00Z"
+    },
+    "end": {
+        "timezone": "America/Chicago",
+        "local": "2023-07-31T15:00:00",
+        "utc": "2023-07-31T20:00:00Z"
+    },
+    "organization_id": "9999937151083",
+    "created": "2023-02-19T22:11:41Z",
+    "changed": "2023-06-03T20:01:23Z",
+    "published": "2023-03-04T15:00:20Z",
+    "capacity": 10000,
+    "capacity_is_custom": true,
+    "status": "live",
+    "currency": "USD",
+    "listed": true,
+    "shareable": true,
+    "invite_only": false,
+    "online_event": false,
+    "show_remaining": false,
+    "tx_time_limit": 1200,
+    "hide_start_date": false,
+    "hide_end_date": false,
+    "locale": "en_US",
+    "is_locked": false,
+    "privacy_setting": "unlocked",
+    "is_series": false,
+    "is_series_parent": false,
+    "inventory_type": "limited",
+    "is_reserved_seating": false,
+    "show_pick_a_seat": false,
+    "show_seatmap_thumbnail": false,
+    "show_colors_in_seatmap_thumbnail": false,
+    "source": "coyote",
+    "is_free": false,
+    "version": null,
+    "summary": "Underwater Basket Weaving Expo is a Texas Non-Profit Corporation and 501(c)(3) Charity. We have an annual event celebrating Japanese Pop Culture, Anime & more",
+    "facebook_event_id": "259999999999992",
+    "logo_id": "449798749",
+    "organizer_id": "99999593213",
+    "venue_id": "999998639",
+    "category_id": "119",
+    "subcategory_id": "19001",
+    "format_id": "4",
+    "id": "999998975197",
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/",
+    "is_externally_ticketed": false,
+    "category": {
+        "resource_uri": "https://www.eventbriteapi.com/v3/categories/119/",
+        "id": "119",
+        "name": "Hobbies & Special Interest",
+        "name_localized": "Hobbies & Special Interest",
+        "short_name": "Hobbies",
+        "short_name_localized": "Hobbies"
+    },
+    "has_digital_content": {
+        "has_digital_content": false,
+        "digital_content_url": "",
+        "digital_content_relative_url": ""
+    },
+    "subcategory": {
+        "resource_uri": "https://www.eventbriteapi.com/v3/subcategories/19001/",
+        "id": "19001",
+        "name": "Anime/Comics",
+        "name_localized": "Anime/Comics"
+    },
+    "format": {
+        "resource_uri": "https://www.eventbriteapi.com/v3/formats/4/",
+        "id": "4",
+        "name": "Convention",
+        "name_localized": "Convention",
+        "short_name": "Convention",
+        "short_name_localized": "Convention"
+    },
+    "event_sales_status": {
+        "sales_status": "on_sale",
+        "start_sales_date": {
+            "timezone": "America/Chicago",
+            "local": "2023-02-26T00:00:00",
+            "utc": "2023-02-26T06:00:00Z"
+        },
+        "message": null,
+        "message_type": null,
+        "message_code": null,
+        "currency": "USD"
+    },
+    "publish_settings": {
+        "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/publish_settings/",
+        "published_date": "2023-03-04T15:00:20Z",
+        "schedule_publish_date": "2023-03-04T15:00:00Z",
+        "schedule_publish_status": "succeeded",
+        "can_publish": false
+    },
+    "music_properties": {
+        "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/music_properties/",
+        "age_restriction": null,
+        "presented_by": null,
+        "door_time": null
+    },
+    "listing_properties": {
+        "seatmap_thumbnail_url": null,
+        "is_paid": true
+    },
+    "venue": {
+        "address": {
+            "address_1": "400 Olive Street",
+            "address_2": "",
+            "city": "Dallas",
+            "region": "TX",
+            "postal_code": "75201",
+            "country": "US",
+            "latitude": "32.7851279",
+            "longitude": "-96.7949555",
+            "localized_address_display": "400 Olive Street, Dallas, TX 75201",
+            "localized_area_display": "Dallas, TX",
+            "localized_multi_line_address_display": [
+                "400 Olive Street",
+                "Dallas, TX 75201"
+            ]
+        },
+        "resource_uri": "https://www.eventbriteapi.com/v3/venues/139428639/",
+        "id": "999998639",
+        "age_restriction": null,
+        "capacity": null,
+        "name": "Sheraton Dallas Hotel",
+        "latitude": "32.7851279",
+        "longitude": "-96.7949555"
+    },
+    "checkout_settings": [
+        {
+            "offline_settings": [],
+            "resource_uri": "https://www.eventbriteapi.com/v3/checkout_settings/99997569/",
+            "id": "99997569",
+            "created": "2023-02-19T22:29:01Z",
+            "changed": "2023-02-19T22:29:01Z",
+            "country_code": "US",
+            "currency_code": "USD",
+            "checkout_method": "eventbrite",
+            "user_instrument_vault_id": null
+        }
+    ],
+    "refund_policy": {
+        "refund_policy": "no_refunds",
+        "refund_retention_policy": null,
+        "is_attendee_automated_refund_allowed": false,
+        "default_refund_retention_policy_strategy": null,
+        "refund_methods": [
+            "original_payment"
+        ],
+        "credit_expiration_period": null,
+        "is_refund_request_allowed": false
+    },
+    "bookmark_info": {
+        "bookmarked": false
+    },
+    "basic_inventory_info": {
+        "has_ticket_classes": true,
+        "has_inventory_tiers": true,
+        "has_ticket_rules": false,
+        "has_add_ons": true,
+        "has_donations": false,
+        "has_admission_tiers": false,
+        "has_admission_ticket_classes": true,
+        "has_capacity_holds": false,
+        "has_ga_hold_tiers": false,
+        "has_reserved_seating_holds": false,
+        "has_holds": false,
+        "has_discounts": false
+    },
+    "logo": {
+        "crop_mask": {
+            "top_left": {
+                "x": 0,
+                "y": 0
+            },
+            "width": 2160,
+            "height": 1080
+        },
+        "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F449798749%2F1405237130943%2F1%2Foriginal.20230219-225032?auto=format%2Ccompress&q=75&sharp=10&s=2a5a23282918506a2bdb66883eaeedf2",
+            "width": 2160,
+            "height": 1080
+        },
+        "id": "449798749",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F449798749%2F1405237130943%2F1%2Foriginal.20230219-225032?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=68c9110af5ce947f7ee6142cc26a1d2b",
+        "aspect_ratio": "2",
+        "edge_color": "#0a0b4b",
+        "edge_color_set": true
+    },
+    "organizer": {
+        "description": {
+            "text": null,
+            "html": "<p></p>"
+        },
+        "long_description": {
+            "text": "Underwater Basket Weaving Expo is a Texas Non-Profit Corporation and 501(c)(3) Charity. It is our mission to educate the public about animation, cinema, art, music, games, crafting, costume design, dance, and other forms of traditional and popular culture and art. A majority of our revenue comes from annual memberships and the primary purpose of those memberships is to attend our annual convention. https://example.com/",
+            "html": "<p>Underwater Basket Weaving Expo is a Texas Non-Profit Corporation and 501(c)(3) Charity. It is our mission to educate the public about animation, cinema, art, music, games, crafting, costume design, dance, and other forms of traditional and popular culture and art. A majority of our revenue comes from annual memberships and the primary purpose of those memberships is to attend our annual convention. https://example.com/</p>"
+        },
+        "resource_uri": "https://www.eventbriteapi.com/v3/organizers/99999593213/",
+        "_type": "organizer",
+        "id": "99999593213",
+        "name": "Underwater Basket Weaving Expo",
+        "url": "https://www.eventbrite.com/o/basket-weaving-99999593213",
+        "num_past_events": 0,
+        "num_future_events": 1,
+        "website": "https://example.com/",
+        "twitter": "Underwater Basket Weaving ExpoOrg",
+        "facebook": "100099999999999",
+        "organization_id": "9999937151083",
+        "disable_marketing_opt_in": false,
+        "logo_id": "999902509"
+    },
+    "ticket_availability": {
+        "has_available_tickets": true,
+        "minimum_ticket_price": {
+            "currency": "USD",
+            "major_value": "3.00",
+            "value": 300,
+            "display": "3.00 USD"
+        },
+        "maximum_ticket_price": {
+            "currency": "USD",
+            "major_value": "69.81",
+            "value": 6981,
+            "display": "69.81 USD"
+        },
+        "is_sold_out": false,
+        "start_sales_date": {
+            "timezone": "America/Chicago",
+            "local": "2023-02-26T00:00:00",
+            "utc": "2023-02-26T06:00:00Z"
+        },
+        "waitlist_available": false
+    }
+}

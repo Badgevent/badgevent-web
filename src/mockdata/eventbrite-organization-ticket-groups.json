@@ -1,0 +1,91 @@
+{
+    "ticket_groups": [
+        {
+            "resource_uri": "https://www.eventbriteapi.com/v3/ticket_groups/9999049/",
+            "id": "9999049",
+            "name": "Child",
+            "status": "live",
+            "event_ticket_ids": {
+                "999998975197": [
+                    "999990929",
+                    "999993249"
+                ]
+            }
+        },
+        {
+            "resource_uri": "https://www.eventbriteapi.com/v3/ticket_groups/9999079/",
+            "id": "9999079",
+            "name": "Friday Only",
+            "status": "live",
+            "event_ticket_ids": {
+                "999998975197": [
+                    "999996499"
+                ]
+            }
+        },
+        {
+            "resource_uri": "https://www.eventbriteapi.com/v3/ticket_groups/9999069/",
+            "id": "9999069",
+            "name": "Full Weekend",
+            "status": "live",
+            "event_ticket_ids": {
+                "999998975197": [
+                    "999996719",
+                    "999990049",
+                    "999993259",
+                    "999993659",
+                    "999994039",
+                    "999994619",
+                    "9999918259"
+                ]
+            }
+        },
+        {
+            "resource_uri": "https://www.eventbriteapi.com/v3/ticket_groups/9999109/",
+            "id": "9999109",
+            "name": "Monday Only",
+            "status": "live",
+            "event_ticket_ids": {
+                "999998975197": [
+                    "999998969"
+                ]
+            }
+        },
+        {
+            "resource_uri": "https://www.eventbriteapi.com/v3/ticket_groups/9999059/",
+            "id": "9999059",
+            "name": "One Day",
+            "status": "live",
+            "event_ticket_ids": {
+                "999998975197": [
+                    "999996499",
+                    "999998089",
+                    "999998589",
+                    "999998969"
+                ]
+            }
+        },
+        {
+            "resource_uri": "https://www.eventbriteapi.com/v3/ticket_groups/9999089/",
+            "id": "9999089",
+            "name": "Saturday Only",
+            "status": "live",
+            "event_ticket_ids": {
+                "999998975197": [
+                    "999998089"
+                ]
+            }
+        },
+        {
+            "resource_uri": "https://www.eventbriteapi.com/v3/ticket_groups/9999099/",
+            "id": "9999099",
+            "name": "Sunday Only",
+            "status": "live",
+            "event_ticket_ids": {
+                "999998975197": [
+                    "999998589"
+                ]
+            }
+        }
+    ]
+}

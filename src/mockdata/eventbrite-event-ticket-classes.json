@@ -1,0 +1,1384 @@
+{
+    "ticket_classes": [
+        {
+            "actual_cost": null,
+            "actual_fee": {
+                "display": "$3.08",
+                "currency": "USD",
+                "value": 308,
+                "major_value": "3.08"
+            },
+            "cost": {
+                "display": "$31.92",
+                "currency": "USD",
+                "value": 3192,
+                "major_value": "31.92"
+            },
+            "fee": {
+                "display": "$3.08",
+                "currency": "USD",
+                "value": 308,
+                "major_value": "3.08"
+            },
+            "tax": {
+                "display": "$0.00",
+                "currency": "USD",
+                "value": 0,
+                "major_value": "0.00"
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/ticket_classes/926336719/",
+            "display_name": "Weekend Membership - Tier 1",
+            "name": "Weekend Membership - Tier 1",
+            "description": "Full Weekend membership -- all four days of the convention",
+            "sorting": 1,
+            "donation": false,
+            "free": false,
+            "minimum_quantity": 1,
+            "maximum_quantity": 10,
+            "maximum_quantity_per_order": 0,
+            "on_sale_status": "SOLD_OUT",
+            "has_pdf_ticket": true,
+            "order_confirmation_message": null,
+            "delivery_methods": [
+                "electronic"
+            ],
+            "category": "admission",
+            "sales_channels": [
+                "online",
+                "atd"
+            ],
+            "secondary_assignment_enabled": false,
+            "event_id": "999998975197",
+            "image_id": null,
+            "id": "999996719",
+            "capacity": 70,
+            "quantity_total": 70,
+            "quantity_sold": 70,
+            "sales_start": "2023-02-19T06:00:00Z",
+            "sales_end": "2023-04-15T17:00:00Z",
+            "sales_end_relative": null,
+            "hidden": false,
+            "hidden_currently": false,
+            "include_fee": false,
+            "split_fee": false,
+            "hide_description": true,
+            "hide_sale_dates": false,
+            "auto_hide": false,
+            "payment_constraints": []
+        },
+        {
+            "actual_cost": null,
+            "actual_fee": {
+                "display": "$3.61",
+                "currency": "USD",
+                "value": 361,
+                "major_value": "3.61"
+            },
+            "cost": {
+                "display": "$41.39",
+                "currency": "USD",
+                "value": 4139,
+                "major_value": "41.39"
+            },
+            "fee": {
+                "display": "$3.61",
+                "currency": "USD",
+                "value": 361,
+                "major_value": "3.61"
+            },
+            "tax": {
+                "display": "$0.00",
+                "currency": "USD",
+                "value": 0,
+                "major_value": "0.00"
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/ticket_classes/926340049/",
+            "display_name": "Weekend Membership - Tier 2",
+            "name": "Weekend Membership - Tier 2",
+            "description": "Full Weekend membership -- all four days of the convention",
+            "sorting": 2,
+            "donation": false,
+            "free": false,
+            "minimum_quantity": 1,
+            "maximum_quantity": 10,
+            "maximum_quantity_per_order": 0,
+            "on_sale_status": "SOLD_OUT",
+            "has_pdf_ticket": true,
+            "order_confirmation_message": null,
+            "delivery_methods": [
+                "electronic"
+            ],
+            "category": "admission",
+            "sales_channels": [
+                "online",
+                "atd"
+            ],
+            "secondary_assignment_enabled": false,
+            "event_id": "999998975197",
+            "image_id": null,
+            "id": "999990049",
+            "capacity": 705,
+            "quantity_total": 705,
+            "quantity_sold": 705,
+            "sales_start": "2023-02-19T06:00:00Z",
+            "sales_end": "2023-06-01T17:00:00Z",
+            "sales_end_relative": null,
+            "hidden": false,
+            "hidden_currently": false,
+            "include_fee": false,
+            "split_fee": false,
+            "hide_description": true,
+            "hide_sale_dates": false,
+            "auto_hide": false,
+            "payment_constraints": []
+        },
+        {
+            "actual_cost": null,
+            "actual_fee": {
+                "display": "$4.14",
+                "currency": "USD",
+                "value": 414,
+                "major_value": "4.14"
+            },
+            "cost": {
+                "display": "$50.87",
+                "currency": "USD",
+                "value": 5087,
+                "major_value": "50.87"
+            },
+            "fee": {
+                "display": "$4.14",
+                "currency": "USD",
+                "value": 414,
+                "major_value": "4.14"
+            },
+            "tax": {
+                "display": "$0.00",
+                "currency": "USD",
+                "value": 0,
+                "major_value": "0.00"
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/ticket_classes/926353259/",
+            "display_name": "Weekend Membership - Tier 3",
+            "name": "Weekend Membership - Tier 3",
+            "description": "Full Weekend membership -- all four days of the convention",
+            "sorting": 3,
+            "donation": false,
+            "free": false,
+            "minimum_quantity": 1,
+            "maximum_quantity": 10,
+            "maximum_quantity_per_order": 10,
+            "on_sale_status": "AVAILABLE",
+            "has_pdf_ticket": true,
+            "order_confirmation_message": null,
+            "delivery_methods": [
+                "electronic"
+            ],
+            "category": "admission",
+            "sales_channels": [
+                "online",
+                "atd"
+            ],
+            "secondary_assignment_enabled": false,
+            "event_id": "999998975197",
+            "image_id": null,
+            "id": "999993259",
+            "capacity": 705,
+            "quantity_total": 705,
+            "quantity_sold": 632,
+            "sales_start": "2023-03-18T05:00:00Z",
+            "sales_end": "2023-07-31T17:00:00Z",
+            "sales_end_relative": null,
+            "hidden": false,
+            "hidden_currently": false,
+            "include_fee": false,
+            "split_fee": false,
+            "hide_description": true,
+            "hide_sale_dates": false,
+            "auto_hide": true,
+            "payment_constraints": []
+        },
+        {
+            "actual_cost": null,
+            "actual_fee": {
+                "display": "$4.67",
+                "currency": "USD",
+                "value": 467,
+                "major_value": "4.67"
+            },
+            "cost": {
+                "display": "$60.33",
+                "currency": "USD",
+                "value": 6033,
+                "major_value": "60.33"
+            },
+            "fee": {
+                "display": "$4.67",
+                "currency": "USD",
+                "value": 467,
+                "major_value": "4.67"
+            },
+            "tax": {
+                "display": "$0.00",
+                "currency": "USD",
+                "value": 0,
+                "major_value": "0.00"
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/ticket_classes/926353659/",
+            "display_name": "Weekend Membership - Tier 4",
+            "name": "Weekend Membership - Tier 4",
+            "description": "Full Weekend membership -- all four days of the convention",
+            "sorting": 4,
+            "donation": false,
+            "free": false,
+            "minimum_quantity": 1,
+            "maximum_quantity": 10,
+            "maximum_quantity_per_order": 10,
+            "on_sale_status": "AVAILABLE",
+            "has_pdf_ticket": true,
+            "order_confirmation_message": null,
+            "delivery_methods": [
+                "electronic"
+            ],
+            "category": "admission",
+            "sales_channels": [
+                "online",
+                "atd"
+            ],
+            "secondary_assignment_enabled": false,
+            "event_id": "999998975197",
+            "image_id": null,
+            "id": "999993659",
+            "capacity": 1315,
+            "quantity_total": 1315,
+            "quantity_sold": 28,
+            "sales_start": "2023-04-01T05:00:00Z",
+            "sales_end": "2023-07-31T17:00:00Z",
+            "sales_end_relative": null,
+            "hidden": false,
+            "hidden_currently": false,
+            "include_fee": false,
+            "split_fee": false,
+            "hide_description": true,
+            "hide_sale_dates": false,
+            "auto_hide": true,
+            "payment_constraints": []
+        },
+        {
+            "actual_cost": null,
+            "actual_fee": {
+                "display": "$5.19",
+                "currency": "USD",
+                "value": 519,
+                "major_value": "5.19"
+            },
+            "cost": {
+                "display": "$69.81",
+                "currency": "USD",
+                "value": 6981,
+                "major_value": "69.81"
+            },
+            "fee": {
+                "display": "$5.19",
+                "currency": "USD",
+                "value": 519,
+                "major_value": "5.19"
+            },
+            "tax": {
+                "display": "$0.00",
+                "currency": "USD",
+                "value": 0,
+                "major_value": "0.00"
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/ticket_classes/926354039/",
+            "display_name": "Weekend Membership - Tier 5",
+            "name": "Weekend Membership - Tier 5",
+            "description": "Full Weekend membership -- all four days of the convention",
+            "sorting": 5,
+            "donation": false,
+            "free": false,
+            "minimum_quantity": 1,
+            "maximum_quantity": 10,
+            "maximum_quantity_per_order": 10,
+            "on_sale_status": "AVAILABLE",
+            "has_pdf_ticket": true,
+            "order_confirmation_message": null,
+            "delivery_methods": [
+                "electronic"
+            ],
+            "category": "admission",
+            "sales_channels": [
+                "online",
+                "atd"
+            ],
+            "secondary_assignment_enabled": false,
+            "event_id": "999998975197",
+            "image_id": null,
+            "id": "999994039",
+            "capacity": 2000,
+            "quantity_total": 2000,
+            "quantity_sold": 2,
+            "sales_start": "2023-05-31T05:00:00Z",
+            "sales_end": "2023-07-31T17:00:00Z",
+            "sales_end_relative": null,
+            "hidden": false,
+            "hidden_currently": false,
+            "include_fee": false,
+            "split_fee": false,
+            "hide_description": true,
+            "hide_sale_dates": false,
+            "auto_hide": true,
+            "payment_constraints": []
+        },
+        {
+            "actual_cost": null,
+            "actual_fee": {
+                "display": "$5.73",
+                "currency": "USD",
+                "value": 573,
+                "major_value": "5.73"
+            },
+            "cost": {
+                "display": "$79.27",
+                "currency": "USD",
+                "value": 7927,
+                "major_value": "79.27"
+            },
+            "fee": {
+                "display": "$5.73",
+                "currency": "USD",
+                "value": 573,
+                "major_value": "5.73"
+            },
+            "tax": {
+                "display": "$0.00",
+                "currency": "USD",
+                "value": 0,
+                "major_value": "0.00"
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/ticket_classes/926354619/",
+            "display_name": "Final Weekend Membership - Tier6",
+            "name": "Final Weekend Membership - Tier6",
+            "description": "Full Weekend membership -- all four days of the convention",
+            "sorting": 6,
+            "donation": false,
+            "free": false,
+            "minimum_quantity": 1,
+            "maximum_quantity": 10,
+            "maximum_quantity_per_order": 10,
+            "on_sale_status": "NOT_YET_ON_SALE",
+            "has_pdf_ticket": true,
+            "order_confirmation_message": null,
+            "delivery_methods": [
+                "electronic"
+            ],
+            "category": "admission",
+            "sales_channels": [
+                "online",
+                "atd"
+            ],
+            "secondary_assignment_enabled": false,
+            "event_id": "999998975197",
+            "image_id": null,
+            "id": "999994619",
+            "capacity": 5000,
+            "quantity_total": 5000,
+            "quantity_sold": 0,
+            "sales_start": "2023-07-01T05:00:00Z",
+            "sales_end": "2023-07-30T17:00:00Z",
+            "sales_end_relative": null,
+            "hidden": false,
+            "hidden_currently": true,
+            "include_fee": false,
+            "split_fee": false,
+            "hide_description": true,
+            "hide_sale_dates": false,
+            "auto_hide": true,
+            "payment_constraints": []
+        },
+        {
+            "actual_cost": null,
+            "actual_fee": {
+                "display": "$3.34",
+                "currency": "USD",
+                "value": 334,
+                "major_value": "3.34"
+            },
+            "cost": {
+                "display": "$36.66",
+                "currency": "USD",
+                "value": 3666,
+                "major_value": "36.66"
+            },
+            "fee": {
+                "display": "$3.34",
+                "currency": "USD",
+                "value": 334,
+                "major_value": "3.34"
+            },
+            "tax": {
+                "display": "$0.00",
+                "currency": "USD",
+                "value": 0,
+                "major_value": "0.00"
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/ticket_classes/926356499/",
+            "display_name": "Friday ONLY",
+            "name": "Friday ONLY",
+            "description": "Membership is good Friday ONLY of the convention",
+            "sorting": 7,
+            "donation": false,
+            "free": false,
+            "minimum_quantity": 1,
+            "maximum_quantity": 10,
+            "maximum_quantity_per_order": 10,
+            "on_sale_status": "NOT_YET_ON_SALE",
+            "has_pdf_ticket": true,
+            "order_confirmation_message": null,
+            "delivery_methods": [
+                "electronic"
+            ],
+            "category": "admission",
+            "sales_channels": [
+                "online",
+                "atd"
+            ],
+            "secondary_assignment_enabled": false,
+            "event_id": "999998975197",
+            "image_id": null,
+            "id": "999996499",
+            "capacity": 1000,
+            "quantity_total": 1000,
+            "quantity_sold": 0,
+            "sales_start": "2023-07-21T05:00:00Z",
+            "sales_end": "2023-07-28T17:00:00Z",
+            "sales_end_relative": null,
+            "hidden": false,
+            "hidden_currently": true,
+            "include_fee": false,
+            "split_fee": false,
+            "hide_description": true,
+            "hide_sale_dates": false,
+            "auto_hide": true,
+            "payment_constraints": []
+        },
+        {
+            "actual_cost": null,
+            "actual_fee": {
+                "display": "$4.13",
+                "currency": "USD",
+                "value": 413,
+                "major_value": "4.13"
+            },
+            "cost": {
+                "display": "$50.86",
+                "currency": "USD",
+                "value": 5086,
+                "major_value": "50.86"
+            },
+            "fee": {
+                "display": "$4.13",
+                "currency": "USD",
+                "value": 413,
+                "major_value": "4.13"
+            },
+            "tax": {
+                "display": "$0.00",
+                "currency": "USD",
+                "value": 0,
+                "major_value": "0.00"
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/ticket_classes/926358089/",
+            "display_name": "Saturday ONLY",
+            "name": "Saturday ONLY",
+            "description": "Membership is good Saturday ONLY of the convention",
+            "sorting": 8,
+            "donation": false,
+            "free": false,
+            "minimum_quantity": 1,
+            "maximum_quantity": 10,
+            "maximum_quantity_per_order": 10,
+            "on_sale_status": "NOT_YET_ON_SALE",
+            "has_pdf_ticket": true,
+            "order_confirmation_message": null,
+            "delivery_methods": [
+                "electronic"
+            ],
+            "category": "admission",
+            "sales_channels": [
+                "online",
+                "atd"
+            ],
+            "secondary_assignment_enabled": false,
+            "event_id": "999998975197",
+            "image_id": null,
+            "id": "999998089",
+            "capacity": 2500,
+            "quantity_total": 2500,
+            "quantity_sold": 0,
+            "sales_start": "2023-07-21T05:00:00Z",
+            "sales_end": "2023-07-29T17:00:00Z",
+            "sales_end_relative": null,
+            "hidden": false,
+            "hidden_currently": true,
+            "include_fee": false,
+            "split_fee": false,
+            "hide_description": true,
+            "hide_sale_dates": false,
+            "auto_hide": true,
+            "payment_constraints": []
+        },
+        {
+            "actual_cost": null,
+            "actual_fee": {
+                "display": "$4.13",
+                "currency": "USD",
+                "value": 413,
+                "major_value": "4.13"
+            },
+            "cost": {
+                "display": "$50.86",
+                "currency": "USD",
+                "value": 5086,
+                "major_value": "50.86"
+            },
+            "fee": {
+                "display": "$4.13",
+                "currency": "USD",
+                "value": 413,
+                "major_value": "4.13"
+            },
+            "tax": {
+                "display": "$0.00",
+                "currency": "USD",
+                "value": 0,
+                "major_value": "0.00"
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/ticket_classes/926358589/",
+            "display_name": "Sunday ONLY",
+            "name": "Sunday ONLY",
+            "description": "Membership is good Sunday ONLY of the convention",
+            "sorting": 9,
+            "donation": false,
+            "free": false,
+            "minimum_quantity": 1,
+            "maximum_quantity": 10,
+            "maximum_quantity_per_order": 10,
+            "on_sale_status": "NOT_YET_ON_SALE",
+            "has_pdf_ticket": true,
+            "order_confirmation_message": null,
+            "delivery_methods": [
+                "electronic"
+            ],
+            "category": "admission",
+            "sales_channels": [
+                "online",
+                "atd"
+            ],
+            "secondary_assignment_enabled": false,
+            "event_id": "999998975197",
+            "image_id": null,
+            "id": "999998589",
+            "capacity": 2000,
+            "quantity_total": 2000,
+            "quantity_sold": 0,
+            "sales_start": "2023-07-21T05:00:00Z",
+            "sales_end": "2023-07-30T17:00:00Z",
+            "sales_end_relative": null,
+            "hidden": false,
+            "hidden_currently": true,
+            "include_fee": false,
+            "split_fee": false,
+            "hide_description": true,
+            "hide_sale_dates": false,
+            "auto_hide": true,
+            "payment_constraints": []
+        },
+        {
+            "actual_cost": null,
+            "actual_fee": {
+                "display": "$3.08",
+                "currency": "USD",
+                "value": 308,
+                "major_value": "3.08"
+            },
+            "cost": {
+                "display": "$31.92",
+                "currency": "USD",
+                "value": 3192,
+                "major_value": "31.92"
+            },
+            "fee": {
+                "display": "$3.08",
+                "currency": "USD",
+                "value": 308,
+                "major_value": "3.08"
+            },
+            "tax": {
+                "display": "$0.00",
+                "currency": "USD",
+                "value": 0,
+                "major_value": "0.00"
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/ticket_classes/926358969/",
+            "display_name": "Monday ONLY",
+            "name": "Monday ONLY",
+            "description": "Membership is good Monday ONLY of the convention",
+            "sorting": 10,
+            "donation": false,
+            "free": false,
+            "minimum_quantity": 1,
+            "maximum_quantity": 10,
+            "maximum_quantity_per_order": 10,
+            "on_sale_status": "NOT_YET_ON_SALE",
+            "has_pdf_ticket": true,
+            "order_confirmation_message": null,
+            "delivery_methods": [
+                "electronic"
+            ],
+            "category": "admission",
+            "sales_channels": [
+                "online",
+                "atd"
+            ],
+            "secondary_assignment_enabled": false,
+            "event_id": "999998975197",
+            "image_id": null,
+            "id": "999998969",
+            "capacity": 1000,
+            "quantity_total": 1000,
+            "quantity_sold": 0,
+            "sales_start": "2023-07-21T05:00:00Z",
+            "sales_end": "2023-07-31T17:00:00Z",
+            "sales_end_relative": null,
+            "hidden": false,
+            "hidden_currently": true,
+            "include_fee": false,
+            "split_fee": false,
+            "hide_description": true,
+            "hide_sale_dates": false,
+            "auto_hide": true,
+            "payment_constraints": []
+        },
+        {
+            "actual_cost": null,
+            "actual_fee": {
+                "display": "$2.14",
+                "currency": "USD",
+                "value": 214,
+                "major_value": "2.14"
+            },
+            "cost": {
+                "display": "$15.00",
+                "currency": "USD",
+                "value": 1500,
+                "major_value": "15.00"
+            },
+            "fee": {
+                "display": "$0.00",
+                "currency": "USD",
+                "value": 0,
+                "major_value": "0.00"
+            },
+            "tax": {
+                "display": "$0.00",
+                "currency": "USD",
+                "value": 0,
+                "major_value": "0.00"
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/ticket_classes/937570929/",
+            "display_name": "Youth 8-12",
+            "name": "Youth 8-12",
+            "description": "Full membership for children age 8-12. Must be chaperoned by an adult age 18+ who has a Underwater Basket Weaving Expo paid membership.\n** First Name, Last Name and Email address MUST be the adult member's information. We only require the Child's badge name.",
+            "sorting": 13,
+            "donation": false,
+            "free": false,
+            "minimum_quantity": 1,
+            "maximum_quantity": 10,
+            "maximum_quantity_per_order": 10,
+            "on_sale_status": "AVAILABLE",
+            "has_pdf_ticket": true,
+            "order_confirmation_message": null,
+            "delivery_methods": [
+                "electronic"
+            ],
+            "category": "admission",
+            "sales_channels": [
+                "online",
+                "atd"
+            ],
+            "secondary_assignment_enabled": false,
+            "event_id": "999998975197",
+            "image_id": null,
+            "id": "999990929",
+            "capacity": 3000,
+            "quantity_total": 3000,
+            "quantity_sold": 60,
+            "sales_start": "2023-02-26T06:00:00Z",
+            "sales_end": "2023-07-28T17:00:00Z",
+            "sales_end_relative": null,
+            "hidden": false,
+            "hidden_currently": false,
+            "include_fee": true,
+            "split_fee": false,
+            "hide_description": true,
+            "hide_sale_dates": false,
+            "auto_hide": false,
+            "payment_constraints": []
+        },
+        {
+            "actual_cost": null,
+            "actual_fee": {
+                "display": "$1.46",
+                "currency": "USD",
+                "value": 146,
+                "major_value": "1.46"
+            },
+            "cost": {
+                "display": "$3.00",
+                "currency": "USD",
+                "value": 300,
+                "major_value": "3.00"
+            },
+            "fee": {
+                "display": "$0.00",
+                "currency": "USD",
+                "value": 0,
+                "major_value": "0.00"
+            },
+            "tax": {
+                "display": "$0.00",
+                "currency": "USD",
+                "value": 0,
+                "major_value": "0.00"
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/ticket_classes/937583249/",
+            "display_name": "Child 0-7",
+            "name": "Child 0-7",
+            "description": "Full membership for children age 0-7. Must be chaperoned by an adult age 18+ who has a Underwater Basket Weaving Expo paid membership\n** First Name, Last Name and Email address MUST be the adult member's information. We only require the Child's badge name.",
+            "sorting": 14,
+            "donation": false,
+            "free": false,
+            "minimum_quantity": 1,
+            "maximum_quantity": 10,
+            "maximum_quantity_per_order": 10,
+            "on_sale_status": "AVAILABLE",
+            "has_pdf_ticket": true,
+            "order_confirmation_message": null,
+            "delivery_methods": [
+                "electronic"
+            ],
+            "category": "admission",
+            "sales_channels": [
+                "online",
+                "atd"
+            ],
+            "secondary_assignment_enabled": false,
+            "event_id": "999998975197",
+            "image_id": null,
+            "id": "999993249",
+            "capacity": 1500,
+            "quantity_total": 1500,
+            "quantity_sold": 25,
+            "sales_start": "2023-02-26T06:00:00Z",
+            "sales_end": "2023-07-28T17:00:00Z",
+            "sales_end_relative": null,
+            "hidden": false,
+            "hidden_currently": false,
+            "include_fee": true,
+            "split_fee": false,
+            "hide_description": true,
+            "hide_sale_dates": false,
+            "auto_hide": false,
+            "payment_constraints": []
+        },
+        {
+            "actual_cost": null,
+            "actual_fee": null,
+            "cost": null,
+            "fee": null,
+            "tax": null,
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/ticket_classes/1028518259/",
+            "display_name": "Comp Membership-Internal Use Only",
+            "name": "Comp Membership-Internal Use Only",
+            "description": null,
+            "sorting": 15,
+            "donation": false,
+            "free": true,
+            "minimum_quantity": 1,
+            "maximum_quantity": 10,
+            "maximum_quantity_per_order": 10,
+            "on_sale_status": "AVAILABLE",
+            "has_pdf_ticket": true,
+            "order_confirmation_message": null,
+            "delivery_methods": [
+                "electronic"
+            ],
+            "category": "admission",
+            "sales_channels": [
+                "online",
+                "atd"
+            ],
+            "secondary_assignment_enabled": false,
+            "event_id": "999998975197",
+            "image_id": null,
+            "id": "9999918259",
+            "capacity": 50,
+            "quantity_total": 50,
+            "quantity_sold": 0,
+            "sales_start": "2023-04-27T05:00:00Z",
+            "sales_end": "2023-07-28T17:00:00Z",
+            "sales_end_relative": null,
+            "hidden": true,
+            "hidden_currently": true,
+            "include_fee": false,
+            "split_fee": false,
+            "hide_description": true,
+            "hide_sale_dates": false,
+            "auto_hide": false,
+            "payment_constraints": []
+        },
+        {
+            "actual_cost": null,
+            "actual_fee": {
+                "display": "$2.52",
+                "currency": "USD",
+                "value": 252,
+                "major_value": "2.52"
+            },
+            "cost": {
+                "display": "$22.00",
+                "currency": "USD",
+                "value": 2200,
+                "major_value": "22.00"
+            },
+            "fee": {
+                "display": "$2.52",
+                "currency": "USD",
+                "value": 252,
+                "major_value": "2.52"
+            },
+            "tax": {
+                "display": "$0.00",
+                "currency": "USD",
+                "value": 0,
+                "major_value": "0.00"
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/ticket_classes/9999942039/",
+            "display_name": "Underwater Basket Weaving Expo 2023 T-Shirt Small T-Shirt",
+            "name": "Small T-Shirt",
+            "description": "The shirt is a black t-shirt with this year's art.",
+            "sorting": 16,
+            "donation": false,
+            "free": false,
+            "minimum_quantity": 1,
+            "maximum_quantity": 10,
+            "maximum_quantity_per_order": 10,
+            "on_sale_status": "AVAILABLE",
+            "has_pdf_ticket": false,
+            "order_confirmation_message": "The preordered shirt can be picked up at the Underwater Basket Weaving Expo: Underwater Basket Weaving Expo merchandise booth during the normal dealer room hours. You must bring a copy of your invoice or have it on your phone for staff to view to pick up your shirt. Any shirts not picked up prior to close of Dealer Room on Monday of the convention are forfeit and non-refundable.",
+            "delivery_methods": [
+                "will_call"
+            ],
+            "category": "add_on",
+            "sales_channels": [
+                "online"
+            ],
+            "secondary_assignment_enabled": false,
+            "event_id": "999998975197",
+            "image_id": null,
+            "id": "9999942039",
+            "capacity": null,
+            "quantity_total": 1000,
+            "quantity_sold": 1,
+            "sales_start": "2023-05-09T05:00:00Z",
+            "sales_end": "2023-06-17T22:00:00Z",
+            "sales_end_relative": null,
+            "hidden": false,
+            "hidden_currently": false,
+            "include_fee": false,
+            "split_fee": false,
+            "hide_description": true,
+            "hide_sale_dates": false,
+            "auto_hide": false,
+            "inventory_tier_id": "99993399",
+            "payment_constraints": []
+        },
+        {
+            "actual_cost": null,
+            "actual_fee": {
+                "display": "$2.52",
+                "currency": "USD",
+                "value": 252,
+                "major_value": "2.52"
+            },
+            "cost": {
+                "display": "$22.00",
+                "currency": "USD",
+                "value": 2200,
+                "major_value": "22.00"
+            },
+            "fee": {
+                "display": "$2.52",
+                "currency": "USD",
+                "value": 252,
+                "major_value": "2.52"
+            },
+            "tax": {
+                "display": "$0.00",
+                "currency": "USD",
+                "value": 0,
+                "major_value": "0.00"
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/ticket_classes/9999942049/",
+            "display_name": "Underwater Basket Weaving Expo 2023 T-Shirt Medium T-Shirt",
+            "name": "Medium T-Shirt",
+            "description": "The shirt is a black t-shirt with this year's art.",
+            "sorting": 16,
+            "donation": false,
+            "free": false,
+            "minimum_quantity": 1,
+            "maximum_quantity": 10,
+            "maximum_quantity_per_order": 10,
+            "on_sale_status": "AVAILABLE",
+            "has_pdf_ticket": true,
+            "order_confirmation_message": "The preordered shirt can be picked up at the Underwater Basket Weaving Expo: Underwater Basket Weaving Expo merchandise booth during the normal dealer room hours. You must bring a copy of your invoice or have it on your phone for staff to view to pick up your shirt. Any shirts not picked up prior to close of Dealer Room on Monday of the convention are forfeit and non-refundable.",
+            "delivery_methods": [
+                "electronic",
+                "will_call"
+            ],
+            "category": "add_on",
+            "sales_channels": [
+                "online",
+                "atd"
+            ],
+            "secondary_assignment_enabled": false,
+            "event_id": "999998975197",
+            "image_id": null,
+            "id": "9999942049",
+            "capacity": null,
+            "quantity_total": 1000,
+            "quantity_sold": 4,
+            "sales_start": "2023-05-09T05:00:00Z",
+            "sales_end": "2023-06-17T22:00:00Z",
+            "sales_end_relative": null,
+            "hidden": false,
+            "hidden_currently": false,
+            "include_fee": false,
+            "split_fee": false,
+            "hide_description": true,
+            "hide_sale_dates": false,
+            "auto_hide": false,
+            "inventory_tier_id": "99993399",
+            "payment_constraints": []
+        },
+        {
+            "actual_cost": null,
+            "actual_fee": {
+                "display": "$2.52",
+                "currency": "USD",
+                "value": 252,
+                "major_value": "2.52"
+            },
+            "cost": {
+                "display": "$22.00",
+                "currency": "USD",
+                "value": 2200,
+                "major_value": "22.00"
+            },
+            "fee": {
+                "display": "$2.52",
+                "currency": "USD",
+                "value": 252,
+                "major_value": "2.52"
+            },
+            "tax": {
+                "display": "$0.00",
+                "currency": "USD",
+                "value": 0,
+                "major_value": "0.00"
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/ticket_classes/9999939039/",
+            "display_name": "Underwater Basket Weaving Expo 2023 T-Shirt Large T-Shirt",
+            "name": "Large T-Shirt",
+            "description": "The shirt is a black t-shirt with this year's art.",
+            "sorting": 17,
+            "donation": false,
+            "free": false,
+            "minimum_quantity": 1,
+            "maximum_quantity": 10,
+            "maximum_quantity_per_order": 10,
+            "on_sale_status": "AVAILABLE",
+            "has_pdf_ticket": true,
+            "order_confirmation_message": "The preordered shirt can be picked up at the Underwater Basket Weaving Expo: Underwater Basket Weaving Expo merchandise booth during the normal dealer room hours. You must bring a copy of your invoice or have it on your phone for staff to view to pick up your shirt. Any shirts not picked up prior to close of Dealer Room on Monday of the convention are forfeit and non-refundable.",
+            "delivery_methods": [
+                "electronic",
+                "will_call"
+            ],
+            "category": "add_on",
+            "sales_channels": [
+                "online",
+                "atd"
+            ],
+            "secondary_assignment_enabled": false,
+            "event_id": "999998975197",
+            "image_id": null,
+            "id": "9999939039",
+            "capacity": null,
+            "quantity_total": 1000,
+            "quantity_sold": 4,
+            "sales_start": "2023-05-11T05:00:00Z",
+            "sales_end": "2023-06-17T22:00:00Z",
+            "sales_end_relative": null,
+            "hidden": false,
+            "hidden_currently": false,
+            "include_fee": false,
+            "split_fee": false,
+            "hide_description": true,
+            "hide_sale_dates": false,
+            "auto_hide": false,
+            "inventory_tier_id": "99993399",
+            "payment_constraints": []
+        },
+        {
+            "actual_cost": null,
+            "actual_fee": {
+                "display": "$2.52",
+                "currency": "USD",
+                "value": 252,
+                "major_value": "2.52"
+            },
+            "cost": {
+                "display": "$22.00",
+                "currency": "USD",
+                "value": 2200,
+                "major_value": "22.00"
+            },
+            "fee": {
+                "display": "$2.52",
+                "currency": "USD",
+                "value": 252,
+                "major_value": "2.52"
+            },
+            "tax": {
+                "display": "$0.00",
+                "currency": "USD",
+                "value": 0,
+                "major_value": "0.00"
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/ticket_classes/9999939049/",
+            "display_name": "Underwater Basket Weaving Expo 2023 T-Shirt Extra Large T-Shirt",
+            "name": "Extra Large T-Shirt",
+            "description": null,
+            "sorting": 17,
+            "donation": false,
+            "free": false,
+            "minimum_quantity": 1,
+            "maximum_quantity": 10,
+            "maximum_quantity_per_order": 10,
+            "on_sale_status": "AVAILABLE",
+            "has_pdf_ticket": true,
+            "order_confirmation_message": null,
+            "delivery_methods": [
+                "electronic",
+                "will_call"
+            ],
+            "category": "add_on",
+            "sales_channels": [
+                "online",
+                "atd"
+            ],
+            "secondary_assignment_enabled": false,
+            "event_id": "999998975197",
+            "image_id": null,
+            "id": "9999939049",
+            "capacity": null,
+            "quantity_total": 1000,
+            "quantity_sold": 8,
+            "sales_start": "2023-05-11T05:00:00Z",
+            "sales_end": "2023-06-03T22:00:00Z",
+            "sales_end_relative": null,
+            "hidden": false,
+            "hidden_currently": false,
+            "include_fee": false,
+            "split_fee": false,
+            "hide_description": true,
+            "hide_sale_dates": false,
+            "auto_hide": false,
+            "inventory_tier_id": "99993399",
+            "payment_constraints": []
+        },
+        {
+            "actual_cost": null,
+            "actual_fee": {
+                "display": "$2.64",
+                "currency": "USD",
+                "value": 264,
+                "major_value": "2.64"
+            },
+            "cost": {
+                "display": "$24.00",
+                "currency": "USD",
+                "value": 2400,
+                "major_value": "24.00"
+            },
+            "fee": {
+                "display": "$2.64",
+                "currency": "USD",
+                "value": 264,
+                "major_value": "2.64"
+            },
+            "tax": {
+                "display": "$0.00",
+                "currency": "USD",
+                "value": 0,
+                "major_value": "0.00"
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/ticket_classes/9999945959/",
+            "display_name": "Underwater Basket Weaving Expo 2023 T-Shirt 2XL T-Shirt",
+            "name": "2XL T-Shirt",
+            "description": "The shirt is a black t-shirt with this year's art.",
+            "sorting": 18,
+            "donation": false,
+            "free": false,
+            "minimum_quantity": 1,
+            "maximum_quantity": 10,
+            "maximum_quantity_per_order": 10,
+            "on_sale_status": "AVAILABLE",
+            "has_pdf_ticket": true,
+            "order_confirmation_message": "The preordered shirt can be picked up at the Underwater Basket Weaving Expo: Underwater Basket Weaving Expo merchandise booth during the normal dealer room hours. You must bring a copy of your invoice or have it on your phone for staff to view to pick up your shirt. Any shirts not picked up prior to close of Dealer Room on Monday of the convention are forfeit and non-refundable.",
+            "delivery_methods": [
+                "electronic",
+                "will_call"
+            ],
+            "category": "add_on",
+            "sales_channels": [
+                "online",
+                "atd"
+            ],
+            "secondary_assignment_enabled": false,
+            "event_id": "999998975197",
+            "image_id": null,
+            "id": "9999945959",
+            "capacity": null,
+            "quantity_total": 1000,
+            "quantity_sold": 3,
+            "sales_start": "2023-05-11T05:00:00Z",
+            "sales_end": "2023-06-17T22:00:00Z",
+            "sales_end_relative": null,
+            "hidden": false,
+            "hidden_currently": false,
+            "include_fee": false,
+            "split_fee": false,
+            "hide_description": true,
+            "hide_sale_dates": false,
+            "auto_hide": false,
+            "inventory_tier_id": "99993399",
+            "payment_constraints": []
+        },
+        {
+            "actual_cost": null,
+            "actual_fee": {
+                "display": "$2.64",
+                "currency": "USD",
+                "value": 264,
+                "major_value": "2.64"
+            },
+            "cost": {
+                "display": "$24.00",
+                "currency": "USD",
+                "value": 2400,
+                "major_value": "24.00"
+            },
+            "fee": {
+                "display": "$2.64",
+                "currency": "USD",
+                "value": 264,
+                "major_value": "2.64"
+            },
+            "tax": {
+                "display": "$0.00",
+                "currency": "USD",
+                "value": 0,
+                "major_value": "0.00"
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/ticket_classes/9999949909/",
+            "display_name": "Underwater Basket Weaving Expo 2023 T-Shirt 3XL T-Shirt",
+            "name": "3XL T-Shirt",
+            "description": "The shirt is a black t-shirt with this year's art.",
+            "sorting": 19,
+            "donation": false,
+            "free": false,
+            "minimum_quantity": 1,
+            "maximum_quantity": 10,
+            "maximum_quantity_per_order": 10,
+            "on_sale_status": "AVAILABLE",
+            "has_pdf_ticket": true,
+            "order_confirmation_message": "The preordered shirt can be picked up at the Underwater Basket Weaving Expo: Underwater Basket Weaving Expo merchandise booth during the normal dealer room hours. You must bring a copy of your invoice or have it on your phone for staff to view to pick up your shirt. Any shirts not picked up prior to close of Dealer Room on Monday of the convention are forfeit and non-refundable.",
+            "delivery_methods": [
+                "electronic",
+                "will_call"
+            ],
+            "category": "add_on",
+            "sales_channels": [
+                "online",
+                "atd"
+            ],
+            "secondary_assignment_enabled": false,
+            "event_id": "999998975197",
+            "image_id": null,
+            "id": "9999949909",
+            "capacity": null,
+            "quantity_total": 1000,
+            "quantity_sold": 0,
+            "sales_start": "2023-05-11T05:00:00Z",
+            "sales_end": "2023-06-17T22:00:00Z",
+            "sales_end_relative": null,
+            "hidden": false,
+            "hidden_currently": false,
+            "include_fee": false,
+            "split_fee": false,
+            "hide_description": true,
+            "hide_sale_dates": false,
+            "auto_hide": false,
+            "inventory_tier_id": "99993399",
+            "payment_constraints": []
+        },
+        {
+            "actual_cost": null,
+            "actual_fee": {
+                "display": "$2.70",
+                "currency": "USD",
+                "value": 270,
+                "major_value": "2.70"
+            },
+            "cost": {
+                "display": "$25.00",
+                "currency": "USD",
+                "value": 2500,
+                "major_value": "25.00"
+            },
+            "fee": {
+                "display": "$2.70",
+                "currency": "USD",
+                "value": 270,
+                "major_value": "2.70"
+            },
+            "tax": {
+                "display": "$0.00",
+                "currency": "USD",
+                "value": 0,
+                "major_value": "0.00"
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/ticket_classes/9999965659/",
+            "display_name": "Underwater Basket Weaving Expo 2023 T-Shirt 4XL T-Shirt",
+            "name": "4XL T-Shirt",
+            "description": "The shirt is a black t-shirt with this year's art.",
+            "sorting": 20,
+            "donation": false,
+            "free": false,
+            "minimum_quantity": 1,
+            "maximum_quantity": 10,
+            "maximum_quantity_per_order": 10,
+            "on_sale_status": "AVAILABLE",
+            "has_pdf_ticket": true,
+            "order_confirmation_message": "The preordered shirt can be picked up at the Underwater Basket Weaving Expo: Underwater Basket Weaving Expo merchandise booth during the normal dealer room hours. You must bring a copy of your invoice or have it on your phone for staff to view to pick up your shirt. Any shirts not picked up prior to close of Dealer Room on Monday of the convention are forfeit and non-refundable.",
+            "delivery_methods": [
+                "electronic",
+                "will_call"
+            ],
+            "category": "add_on",
+            "sales_channels": [
+                "online",
+                "atd"
+            ],
+            "secondary_assignment_enabled": false,
+            "event_id": "999998975197",
+            "image_id": null,
+            "id": "9999965659",
+            "capacity": null,
+            "quantity_total": 1000,
+            "quantity_sold": 1,
+            "sales_start": "2023-05-11T05:00:00Z",
+            "sales_end": "2023-06-17T22:00:00Z",
+            "sales_end_relative": null,
+            "hidden": false,
+            "hidden_currently": false,
+            "include_fee": false,
+            "split_fee": false,
+            "hide_description": true,
+            "hide_sale_dates": false,
+            "auto_hide": false,
+            "inventory_tier_id": "99993399",
+            "payment_constraints": []
+        },
+        {
+            "actual_cost": null,
+            "actual_fee": {
+                "display": "$2.70",
+                "currency": "USD",
+                "value": 270,
+                "major_value": "2.70"
+            },
+            "cost": {
+                "display": "$25.00",
+                "currency": "USD",
+                "value": 2500,
+                "major_value": "25.00"
+            },
+            "fee": {
+                "display": "$2.70",
+                "currency": "USD",
+                "value": 270,
+                "major_value": "2.70"
+            },
+            "tax": {
+                "display": "$0.00",
+                "currency": "USD",
+                "value": 0,
+                "major_value": "0.00"
+            },
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/ticket_classes/9999965669/",
+            "display_name": "Underwater Basket Weaving Expo 2023 T-Shirt 5Xl T-Shirt",
+            "name": "5Xl T-Shirt",
+            "description": "The shirt is a black t-shirt with this year's art.",
+            "sorting": 20,
+            "donation": false,
+            "free": false,
+            "minimum_quantity": 1,
+            "maximum_quantity": 10,
+            "maximum_quantity_per_order": 10,
+            "on_sale_status": "AVAILABLE",
+            "has_pdf_ticket": true,
+            "order_confirmation_message": "The preordered shirt can be picked up at the Underwater Basket Weaving Expo: Underwater Basket Weaving Expo merchandise booth during the normal dealer room hours. You must bring a copy of your invoice or have it on your phone for staff to view to pick up your shirt. Any shirts not picked up prior to close of Dealer Room on Monday of the convention are forfeit and non-refundable.",
+            "delivery_methods": [
+                "electronic",
+                "will_call"
+            ],
+            "category": "add_on",
+            "sales_channels": [
+                "online",
+                "atd"
+            ],
+            "secondary_assignment_enabled": false,
+            "event_id": "999998975197",
+            "image_id": null,
+            "id": "9999965669",
+            "capacity": null,
+            "quantity_total": 1000,
+            "quantity_sold": 0,
+            "sales_start": "2023-05-11T05:00:00Z",
+            "sales_end": "2023-06-17T22:00:00Z",
+            "sales_end_relative": null,
+            "hidden": false,
+            "hidden_currently": false,
+            "include_fee": false,
+            "split_fee": false,
+            "hide_description": true,
+            "hide_sale_dates": false,
+            "auto_hide": false,
+            "inventory_tier_id": "99993399",
+            "payment_constraints": []
+        }
+    ]
+}

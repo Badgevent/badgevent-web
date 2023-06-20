@@ -1,0 +1,31 @@
+{
+    "inventory_tiers": [
+        {
+            "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/inventory_tiers/99993399/",
+            "id": "99993399",
+            "event_id": "999998975197",
+            "seatmap_number": 0,
+            "tier": 2,
+            "name": "Underwater Basket Weaving Expo 2023 T-Shirt",
+            "color": "#ffa013",
+            "quantity_total": 1000,
+            "quantity_pending": 0,
+            "quantity_sold": 21,
+            "sort_order": 0,
+            "count_against_event_capacity": false,
+            "ticket_class_ids": [
+                "9999942039",
+                "9999942049",
+                "9999939039",
+                "9999939049",
+                "9999945959",
+                "9999949909",
+                "9999965659",
+                "9999965669"
+            ],
+            "capacity_total": 1000,
+            "holds": [],
+            "image_id": "513253259"
+        }
+    ]
+}

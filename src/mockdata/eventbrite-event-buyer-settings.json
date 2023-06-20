@@ -1,0 +1,49 @@
+{
+    "confirmation_message": {
+        "text": null,
+        "html": null
+    },
+    "instructions": {
+        "text": null,
+        "html": null
+    },
+    "sales_ended_message": {
+        "text": "Terms\nAll purchases are final. Although no refunds are offered, memberships may be transferred to another person by emailing Member Registration at least three weeks prior to an event. Please make sure to review our COVID Policy.\n\nAll attendees 17 or under must have an adult (18+) in attendance with them at all times during the convention. For the adult to be with the attendee, the adult will also need to purchase a badge.\n\nWe have no association with similarly named events outside this area. We will not refund your membership fees if you accidentally register thinking that you are registering for a different membership.",
+        "html": "Terms\nAll purchases are final. Although no refunds are offered, memberships may be transferred to another person by emailing Member Registration at least three weeks prior to an event. Please make sure to review our COVID Policy.\n\nAll attendees 17 or under must have an adult (18+) in attendance with them at all times during the convention. For the adult to be with the attendee, the adult will also need to purchase a badge.\n\nWe have no association with similarly named events outside this area. We will not refund your membership fees if you accidentally register thinking that you are registering for a different membership."
+    },
+    "survey_info": {
+        "text": "Terms\nAll purchases are final. Although no refunds are offered, memberships may be transferred to another person by emailing Member Registration at least three weeks prior to an event. Please make sure to review our COVID Policy.\n\nAll attendees 17 or under must have an adult (18+) in attendance with them at all times during the convention. For the adult to be with the attendee, the adult will also need to purchase a badge.\n\nWe have no association with similarly named events outside this area. We will not refund your membership fees if you accidentally register thinking that you are registering for a different membership.\n\n**When purchasing a Child or Youth badge the First Name, Last Name and Email address MUST be the adult member's information.",
+        "html": "Terms\nAll purchases are final. Although no refunds are offered, memberships may be transferred to another person by emailing Member Registration at least three weeks prior to an event. Please make sure to review our COVID Policy.\n\nAll attendees 17 or under must have an adult (18+) in attendance with them at all times during the convention. For the adult to be with the attendee, the adult will also need to purchase a badge.\n\nWe have no association with similarly named events outside this area. We will not refund your membership fees if you accidentally register thinking that you are registering for a different membership.\n\n**When purchasing a Child or Youth badge the First Name, Last Name and Email address MUST be the adult member's information."
+    },
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/999998975197/ticket_buyer_settings/",
+    "event_id": "999998975197",
+    "refund_request_enabled": false,
+    "redirect_url": null,
+    "allow_attendee_update": true,
+    "survey_name": "Registration Information",
+    "survey_time_limit": 20,
+    "survey_respondent": "attendee",
+    "survey_ticket_classes": [
+        "999996719",
+        "999990049",
+        "999993259",
+        "999993659",
+        "999994039",
+        "999994619",
+        "999996499",
+        "999998089",
+        "999998589",
+        "999998969",
+        "999990929",
+        "999993249",
+        "9999918259",
+        "9999942039",
+        "9999942049",
+        "9999939039",
+        "9999939049",
+        "9999945959",
+        "9999949909",
+        "9999965659",
+        "9999965669"
+    ]
+}

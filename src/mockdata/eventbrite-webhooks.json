@@ -1,0 +1,21 @@
+{
+    "webhooks": [
+        {
+            "resource_uri": "https://www.eventbriteapi.com/v3/webhooks/99999441/",
+            "endpoint_url": "https://example.com/api/v1/webhook/eventbrite",
+            "actions": [
+                "attendee.updated",
+                "order.placed",
+                "order.refunded",
+                "order.updated",
+                "ticket_class.created",
+                "ticket_class.deleted",
+                "ticket_class.updated"
+            ],
+            "id": "99999441",
+            "user_id": "9999937151083",
+            "created": "2023-03-11T06:06:28Z",
+            "event_id": "999998975197"
+        }
+    ]
+}

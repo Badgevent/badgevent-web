@@ -1,0 +1,88 @@
+{
+    "roles": [
+        {
+            "_type": "organization_role",
+            "name": "owner",
+            "description": "Primary owner of the organization",
+            "immutable": true,
+            "organization_id": "9999937151083",
+            "deletable": false,
+            "grantable": true,
+            "permission_type": "user",
+            "user_id": "999997279",
+            "permissions": [
+                "user",
+                "organization",
+                "organization.name:update",
+                "organization.roles.grants:transfer"
+            ]
+        },
+        {
+            "_type": "organization_role",
+            "name": "admin",
+            "description": "Administrator of the organization",
+            "immutable": true,
+            "organization_id": "9999937151083",
+            "deletable": false,
+            "grantable": true,
+            "permission_type": "user",
+            "user_id": "999997289",
+            "permissions": [
+                "user",
+                "organization",
+                "organization.name:update"
+            ]
+        },
+        {
+            "_type": "organization_role",
+            "name": "Registration management",
+            "immutable": false,
+            "organization_id": "9999937151083",
+            "deletable": true,
+            "grantable": true,
+            "permission_type": "event",
+            "user_id": "999997059",
+            "permissions": [
+                "feature.access_basic_event_reports",
+                "feature.view_ticket_holds",
+                "feature.resend_confirmation_email",
+                "feature.revoke_and_reissue_barcodes",
+                "feature.toggle_royalties",
+                "feature.edit_seat_maps",
+                "feature.order_confirmation_emails",
+                "feature.manage_waitlist",
+                "feature.add_attendees",
+                "feature.refund_requests",
+                "feature.manage_orders_and_attendees",
+                "feature.manage_tickets",
+                "feature.view_list_of_attendees",
+                "feature.create_attendee_name_badges",
+                "feature.manage_prebox_orders",
+                "feature.override_ticket_restrictions",
+                "feature.email_to_attendees",
+                "feature.manage_ticket_holds",
+                "feature.sell_tickets_at_the_door"
+            ]
+        },
+        {
+            "_type": "organization_role",
+            "name": "Marketing",
+            "immutable": false,
+            "organization_id": "9999937151083",
+            "deletable": true,
+            "grantable": true,
+            "permission_type": "event",
+            "user_id": "999997059",
+            "permissions": [
+                "feature.create_discount_codes",
+                "feature.sell_on_facebook",
+                "feature.manage_tracking_pixels",
+                "feature.send_event_invitations",
+                "feature.manage_campaigns",
+                "feature.manage_design",
+                "feature.manage_contacts",
+                "feature.tracking_links"
+            ]
+        }
+    ]
+}
